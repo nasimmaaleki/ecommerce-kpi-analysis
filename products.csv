@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_price,unit_cost,return_rate
+P0001,Wireless Headphones,Electronics,592.51,211.82,0.12
+P0002,Smart Watch,Electronics,282.77,117.9,0.12
+P0003,Bluetooth Speaker,Electronics,675.0,373.28,0.12
+P0004,Laptop Stand,Electronics,807.35,303.63,0.12
+P0005,USB-C Hub,Electronics,407.63,146.31,0.12
+P0006,Portable Charger,Electronics,234.84,117.8,0.12
+P0007,Webcam HD,Electronics,71.56,29.31,0.12
+P0008,Mechanical Keyboard,Electronics,601.4,308.81,0.12
+P0009,Mouse Ergonomic,Electronics,236.37,124.51,0.12
+P0010,LED Desk Lamp,Electronics,737.02,259.39,0.12
+P0011,Wireless Headphones v2,Electronics,733.95,410.6,0.12
+P0012,Smart Watch v2,Electronics,338.21,134.15,0.12
+P0013,Bluetooth Speaker v2,Electronics,862.63,389.03,0.12
+P0014,Laptop Stand v2,Electronics,127.83,48.45,0.12
+P0015,USB-C Hub v2,Electronics,769.37,408.63,0.12
+P0016,Portable Charger v2,Electronics,735.06,418.19,0.12
+P0017,Webcam HD v2,Electronics,504.79,324.04,0.12
+P0018,Mechanical Keyboard v2,Electronics,370.75,191.16,0.12
+P0019,Mouse Ergonomic v2,Electronics,753.99,403.8,0.12
+P0020,LED Desk Lamp v2,Electronics,781.45,408.86,0.12
+P0021,Coffee Maker,Home & Garden,180.57,65.68,0.07
+P0022,Air Purifier,Home & Garden,68.56,29.95,0.07
+P0023,Scented Candles,Home & Garden,33.75,14.17,0.07
+P0024,Throw Pillow,Home & Garden,38.74,16.79,0.07
+P0025,Garden Hose,Home & Garden,164.39,75.53,0.07
+P0026,Storage Basket,Home & Garden,101.99,42.11,0.07
+P0027,Wall Clock,Home & Garden,77.74,49.05,0.07
+P0028,Plant Pot Set,Home & Garden,167.29,89.12,0.07
+P0029,Kitchen Scale,Home & Garden,55.22,31.41,0.07
+P0030,Cutting Board,Home & Garden,53.4,24.77,0.07
+P0031,Coffee Maker v2,Home & Garden,247.54,134.17,0.07
+P0032,Air Purifier v2,Home & Garden,145.88,81.02,0.07
+P0033,Scented Candles v2,Home & Garden,213.07,124.18,0.07
+P0034,Throw Pillow v2,Home & Garden,68.83,24.75,0.07
+P0035,Garden Hose v2,Home & Garden,89.13,38.35,0.07
+P0036,Storage Basket v2,Home & Garden,64.58,40.87,0.07
+P0037,Wall Clock v2,Home & Garden,220.95,98.19,0.07
+P0038,Plant Pot Set v2,Home & Garden,169.03,79.22,0.07
+P0039,Kitchen Scale v2,Home & Garden,229.92,112.12,0.07
+P0040,Cutting Board v2,Home & Garden,77.25,32.75,0.07
+P0041,Running Shoes,Fashion,109.82,47.09,0.18
+P0042,Leather Wallet,Fashion,113.53,70.31,0.18
+P0043,Sunglasses,Fashion,83.9,34.89,0.18
+P0044,Cotton T-Shirt,Fashion,179.61,90.32,0.18
+P0045,Denim Jacket,Fashion,34.55,12.58,0.18
+P0046,Silk Scarf,Fashion,37.54,20.21,0.18
+P0047,Yoga Pants,Fashion,146.73,69.94,0.18
+P0048,Baseball Cap,Fashion,30.16,14.01,0.18
+P0049,Sneakers,Fashion,179.38,91.26,0.18
+P0050,Winter Coat,Fashion,175.37,106.67,0.18
+P0051,Running Shoes v2,Fashion,21.84,12.37,0.18
+P0052,Leather Wallet v2,Fashion,129.07,65.97,0.18
+P0053,Sunglasses v2,Fashion,62.69,34.0,0.18
+P0054,Cotton T-Shirt v2,Fashion,37.85,18.18,0.18
+P0055,Denim Jacket v2,Fashion,92.6,58.91,0.18
+P0056,Silk Scarf v2,Fashion,160.14,68.7,0.18
+P0057,Yoga Pants v2,Fashion,100.09,40.4,0.18
+P0058,Baseball Cap v2,Fashion,166.02,101.46,0.18
+P0059,Sneakers v2,Fashion,67.75,36.7,0.18
+P0060,Winter Coat v2,Fashion,117.44,46.49,0.18
+P0061,Yoga Mat,Sports,272.82,139.63,0.08
+P0062,Resistance Bands,Sports,278.05,141.56,0.08
+P0063,Water Bottle,Sports,25.19,11.27,0.08
+P0064,Cycling Gloves,Sports,31.33,19.7,0.08
+P0065,Jump Rope,Sports,310.58,186.19,0.08
+P0066,Foam Roller,Sports,124.94,45.9,0.08
+P0067,Gym Bag,Sports,310.35,196.79,0.08
+P0068,Protein Shaker,Sports,52.84,26.2,0.08
+P0069,Running Belt,Sports,47.49,27.46,0.08
+P0070,Tennis Racket,Sports,273.9,106.41,0.08
+P0071,Yoga Mat v2,Sports,179.47,92.42,0.08
+P0072,Resistance Bands v2,Sports,111.14,67.99,0.08
+P0073,Water Bottle v2,Sports,162.52,67.21,0.08
+P0074,Cycling Gloves v2,Sports,200.27,113.95,0.08
+P0075,Jump Rope v2,Sports,90.37,40.08,0.08
+P0076,Foam Roller v2,Sports,348.42,189.88,0.08
+P0077,Gym Bag v2,Sports,167.38,84.57,0.08
+P0078,Protein Shaker v2,Sports,64.33,26.85,0.08
+P0079,Running Belt v2,Sports,134.88,71.01,0.08
+P0080,Tennis Racket v2,Sports,99.79,41.52,0.08
+P0081,Face Serum,Beauty,17.81,9.61,0.05
+P0082,Lip Balm Set,Beauty,35.18,21.87,0.05
+P0083,Eye Cream,Beauty,104.56,38.82,0.05
+P0084,Sunscreen SPF50,Beauty,36.18,19.92,0.05
+P0085,Moisturizer,Beauty,33.57,13.08,0.05
+P0086,Hair Mask,Beauty,112.91,58.86,0.05
+P0087,Nail Polish Kit,Beauty,61.99,36.29,0.05
+P0088,Perfume,Beauty,98.82,40.23,0.05
+P0089,Exfoliating Scrub,Beauty,20.66,9.9,0.05
+P0090,Setting Spray,Beauty,56.59,27.74,0.05
+P0091,Face Serum v2,Beauty,90.2,49.79,0.05
+P0092,Lip Balm Set v2,Beauty,118.26,44.88,0.05
+P0093,Eye Cream v2,Beauty,54.29,24.53,0.05
+P0094,Sunscreen SPF50 v2,Beauty,104.78,44.49,0.05
+P0095,Moisturizer v2,Beauty,30.92,14.98,0.05
+P0096,Hair Mask v2,Beauty,56.41,24.46,0.05
+P0097,Nail Polish Kit v2,Beauty,37.48,23.5,0.05
+P0098,Perfume v2,Beauty,58.74,35.74,0.05
+P0099,Exfoliating Scrub v2,Beauty,70.54,25.76,0.05
+P0100,Setting Spray v2,Beauty,119.92,72.05,0.05
+P0101,Data Analytics Book,Books & Media,58.39,36.66,0.03
+P0102,Project Management Guide,Books & Media,52.13,20.85,0.03
+P0103,Python Programming,Books & Media,33.25,13.77,0.03
+P0104,UX Design Handbook,Books & Media,28.85,10.6,0.03
+P0105,Business Strategy,Books & Media,27.71,17.89,0.03
+P0106,SQL Cookbook,Books & Media,21.79,12.75,0.03
+P0107,Mindfulness Journal,Books & Media,31.66,15.1,0.03
+P0108,Novel Bestseller,Books & Media,57.78,37.48,0.03
+P0109,Audio Book,Books & Media,36.9,20.87,0.03
+P0110,Magazine Sub,Books & Media,16.05,7.05,0.03
+P0111,Data Analytics Book v2,Books & Media,58.37,30.57,0.03
+P0112,Project Management Guide v2,Books & Media,36.19,20.79,0.03
+P0113,Python Programming v2,Books & Media,10.97,5.76,0.03
+P0114,UX Design Handbook v2,Books & Media,34.15,20.69,0.03
+P0115,Business Strategy v2,Books & Media,16.19,10.33,0.03
+P0116,SQL Cookbook v2,Books & Media,12.17,4.94,0.03
+P0117,Mindfulness Journal v2,Books & Media,38.94,21.52,0.03
+P0118,Novel Bestseller v2,Books & Media,20.23,7.81,0.03
+P0119,Audio Book v2,Books & Media,54.29,23.01,0.03
+P0120,Magazine Sub v2,Books & Media,38.91,20.85,0.03

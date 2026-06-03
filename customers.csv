@@ -1,0 +1,2001 @@
+customer_id,country,city,join_date,segment,age_group,acquisition_channel
+C00001,France,Marseille,2023-10-26,Regular,35-44,Social Media
+C00002,Netherlands,Utrecht,2023-05-03,Regular,25-34,Social Media
+C00003,Belgium,Antwerp,2023-02-07,New,55+,Referral
+C00004,Germany,Berlin,2023-10-03,New,35-44,Paid Search
+C00005,Switzerland,Zurich,2023-05-06,Regular,25-34,Email
+C00006,Austria,Salzburg,2023-09-28,New,55+,Social Media
+C00007,Germany,Hamburg,2023-05-16,New,18-24,Referral
+C00008,Germany,Munich,2023-05-25,Regular,35-44,Paid Search
+C00009,Austria,Salzburg,2023-09-08,Regular,18-24,Organic
+C00010,France,Lyon,2023-01-23,New,25-34,Social Media
+C00011,Germany,Cologne,2023-08-15,Regular,45-54,Referral
+C00012,Germany,Berlin,2023-02-08,Churned,25-34,Referral
+C00013,Germany,Stuttgart,2023-07-09,Regular,25-34,Email
+C00014,Germany,Berlin,2023-06-07,Regular,18-24,Social Media
+C00015,Netherlands,Rotterdam,2023-02-22,Regular,55+,Email
+C00016,Germany,Hamburg,2023-03-25,Churned,25-34,Email
+C00017,Germany,Hamburg,2023-06-20,VIP,45-54,Paid Search
+C00018,Austria,Vienna,2023-02-25,Regular,18-24,Email
+C00019,Netherlands,Rotterdam,2023-08-24,Regular,25-34,Paid Search
+C00020,Germany,Cologne,2023-04-09,Regular,35-44,Organic
+C00021,Austria,Graz,2023-09-18,Regular,55+,Social Media
+C00022,Germany,Berlin,2023-05-14,New,35-44,Organic
+C00023,Germany,Frankfurt,2023-08-11,Regular,35-44,Email
+C00024,Germany,Bremen,2023-10-23,New,18-24,Email
+C00025,Germany,Frankfurt,2023-10-03,Regular,25-34,Social Media
+C00026,France,Paris,2023-06-19,Regular,18-24,Social Media
+C00027,Austria,Salzburg,2023-07-29,Regular,35-44,Referral
+C00028,Germany,Hamburg,2023-08-04,Regular,45-54,Paid Search
+C00029,Austria,Graz,2023-10-08,VIP,35-44,Social Media
+C00030,Netherlands,Eindhoven,2023-10-24,Regular,35-44,Email
+C00031,Belgium,Antwerp,2023-04-20,Regular,25-34,Organic
+C00032,Austria,Salzburg,2023-06-21,New,25-34,Social Media
+C00033,Netherlands,Rotterdam,2023-03-17,New,25-34,Email
+C00034,Germany,Bremen,2023-08-01,Churned,55+,Paid Search
+C00035,France,Lyon,2023-07-24,New,18-24,Organic
+C00036,France,Paris,2023-04-01,VIP,55+,Email
+C00037,Germany,Frankfurt,2023-05-08,Churned,18-24,Email
+C00038,Germany,Stuttgart,2023-08-26,Regular,55+,Referral
+C00039,Switzerland,Geneva,2023-09-16,Regular,55+,Email
+C00040,Germany,Cologne,2023-09-01,Regular,25-34,Social Media
+C00041,Belgium,Ghent,2023-05-03,Regular,18-24,Social Media
+C00042,Netherlands,Utrecht,2023-06-21,Regular,55+,Organic
+C00043,Germany,Hamburg,2023-04-29,Regular,25-34,Paid Search
+C00044,Germany,Bremen,2023-07-28,Regular,45-54,Email
+C00045,Germany,Hamburg,2023-08-04,Regular,55+,Organic
+C00046,France,Lyon,2023-01-04,Churned,35-44,Email
+C00047,France,Marseille,2023-10-07,VIP,25-34,Email
+C00048,Netherlands,Utrecht,2023-08-12,Regular,45-54,Social Media
+C00049,France,Marseille,2023-03-26,VIP,25-34,Referral
+C00050,Germany,Bremen,2023-10-16,Regular,18-24,Email
+C00051,Germany,Stuttgart,2023-08-25,New,35-44,Email
+C00052,Switzerland,Zurich,2023-08-21,Regular,45-54,Social Media
+C00053,France,Lyon,2023-02-11,Regular,55+,Organic
+C00054,Switzerland,Zurich,2023-02-05,VIP,18-24,Organic
+C00055,Netherlands,Rotterdam,2023-01-11,Regular,25-34,Paid Search
+C00056,Belgium,Ghent,2023-02-28,Regular,25-34,Email
+C00057,Austria,Graz,2023-03-27,Regular,18-24,Paid Search
+C00058,Austria,Vienna,2023-10-24,New,35-44,Referral
+C00059,France,Lyon,2023-04-12,New,25-34,Organic
+C00060,Austria,Salzburg,2023-03-03,VIP,55+,Organic
+C00061,Switzerland,Basel,2023-08-08,Regular,18-24,Referral
+C00062,Switzerland,Zurich,2023-08-04,VIP,18-24,Email
+C00063,Switzerland,Basel,2023-08-24,VIP,45-54,Paid Search
+C00064,Austria,Salzburg,2023-10-03,VIP,45-54,Email
+C00065,Austria,Graz,2023-05-06,VIP,18-24,Social Media
+C00066,Belgium,Brussels,2023-08-26,Regular,45-54,Social Media
+C00067,Germany,Bremen,2023-06-16,New,25-34,Social Media
+C00068,Austria,Graz,2023-05-24,Churned,35-44,Referral
+C00069,Germany,Frankfurt,2023-04-08,New,45-54,Email
+C00070,Netherlands,Eindhoven,2023-09-09,Regular,18-24,Organic
+C00071,Austria,Vienna,2023-07-27,Regular,35-44,Referral
+C00072,Switzerland,Geneva,2023-10-11,Regular,45-54,Referral
+C00073,Switzerland,Geneva,2023-08-21,Regular,35-44,Paid Search
+C00074,Germany,Cologne,2023-04-09,Regular,55+,Paid Search
+C00075,Netherlands,Rotterdam,2023-09-05,Regular,55+,Referral
+C00076,Austria,Vienna,2023-04-10,Regular,35-44,Paid Search
+C00077,Austria,Vienna,2023-10-01,New,18-24,Organic
+C00078,Austria,Salzburg,2023-03-06,Regular,45-54,Organic
+C00079,Germany,Frankfurt,2023-05-26,Regular,45-54,Social Media
+C00080,Germany,Berlin,2023-05-10,Churned,45-54,Organic
+C00081,Germany,Bremen,2023-09-09,New,18-24,Paid Search
+C00082,Germany,Stuttgart,2023-10-16,Churned,18-24,Paid Search
+C00083,Germany,Frankfurt,2023-08-02,Regular,55+,Paid Search
+C00084,France,Lyon,2023-08-15,Regular,55+,Email
+C00085,Austria,Salzburg,2023-01-31,Regular,18-24,Paid Search
+C00086,Netherlands,Utrecht,2023-02-11,New,25-34,Referral
+C00087,Germany,Hamburg,2023-01-02,Regular,55+,Email
+C00088,Austria,Vienna,2023-04-29,Regular,35-44,Email
+C00089,Germany,Cologne,2023-04-30,Churned,55+,Paid Search
+C00090,France,Paris,2023-10-06,New,25-34,Social Media
+C00091,Germany,Berlin,2023-01-31,New,35-44,Referral
+C00092,Austria,Graz,2023-03-05,Regular,35-44,Email
+C00093,Austria,Salzburg,2023-10-04,Regular,18-24,Referral
+C00094,Germany,Bremen,2023-06-15,Regular,18-24,Organic
+C00095,Netherlands,Amsterdam,2023-05-18,Regular,25-34,Email
+C00096,Belgium,Antwerp,2023-04-03,Churned,45-54,Email
+C00097,Germany,Bremen,2023-06-28,Regular,35-44,Organic
+C00098,Germany,Munich,2023-07-30,Regular,35-44,Email
+C00099,Germany,Bremen,2023-02-15,Regular,35-44,Organic
+C00100,France,Marseille,2023-01-01,Regular,55+,Email
+C00101,France,Paris,2023-04-07,Regular,55+,Email
+C00102,Belgium,Brussels,2023-04-15,Regular,25-34,Social Media
+C00103,Belgium,Ghent,2023-09-06,New,55+,Paid Search
+C00104,Germany,Munich,2023-10-10,New,45-54,Organic
+C00105,Netherlands,Amsterdam,2023-08-25,Churned,25-34,Email
+C00106,Austria,Salzburg,2023-05-20,Regular,45-54,Email
+C00107,Netherlands,Eindhoven,2023-10-10,New,25-34,Referral
+C00108,Germany,Stuttgart,2023-02-05,Regular,45-54,Social Media
+C00109,Austria,Vienna,2023-05-25,VIP,55+,Referral
+C00110,Belgium,Brussels,2023-08-17,Regular,35-44,Social Media
+C00111,France,Lyon,2023-06-14,Churned,25-34,Referral
+C00112,France,Paris,2023-07-30,New,45-54,Email
+C00113,France,Marseille,2023-03-19,Regular,18-24,Paid Search
+C00114,Switzerland,Zurich,2023-08-14,New,45-54,Organic
+C00115,Germany,Bremen,2023-03-21,New,35-44,Social Media
+C00116,France,Marseille,2023-02-11,Churned,55+,Email
+C00117,Switzerland,Basel,2023-09-07,Churned,18-24,Referral
+C00118,Germany,Hamburg,2023-05-28,Churned,18-24,Email
+C00119,Germany,Stuttgart,2023-02-21,Regular,35-44,Organic
+C00120,Germany,Munich,2023-01-29,Regular,35-44,Email
+C00121,Germany,Hamburg,2023-09-29,Regular,25-34,Paid Search
+C00122,Germany,Berlin,2023-07-15,Regular,25-34,Email
+C00123,Germany,Hamburg,2023-08-25,Regular,45-54,Social Media
+C00124,Germany,Stuttgart,2023-08-27,Churned,55+,Paid Search
+C00125,Germany,Bremen,2023-06-26,Churned,35-44,Email
+C00126,Austria,Graz,2023-06-04,New,45-54,Email
+C00127,Germany,Hamburg,2023-07-15,Regular,55+,Social Media
+C00128,Austria,Vienna,2023-07-22,Regular,55+,Organic
+C00129,Belgium,Antwerp,2023-04-28,Regular,35-44,Paid Search
+C00130,Netherlands,Utrecht,2023-03-12,Regular,18-24,Social Media
+C00131,Belgium,Brussels,2023-10-24,Regular,25-34,Organic
+C00132,Austria,Graz,2023-08-01,New,25-34,Referral
+C00133,Switzerland,Basel,2023-09-14,Churned,25-34,Social Media
+C00134,Belgium,Antwerp,2023-06-23,VIP,45-54,Organic
+C00135,Germany,Stuttgart,2023-04-26,Churned,45-54,Referral
+C00136,Switzerland,Zurich,2023-07-22,New,55+,Organic
+C00137,Belgium,Antwerp,2023-05-15,Regular,35-44,Organic
+C00138,Netherlands,Eindhoven,2023-01-13,Regular,55+,Social Media
+C00139,Netherlands,Amsterdam,2023-08-26,Churned,35-44,Email
+C00140,Germany,Hamburg,2023-01-24,Churned,35-44,Email
+C00141,Germany,Berlin,2023-05-01,Churned,25-34,Email
+C00142,Belgium,Antwerp,2023-10-04,Regular,25-34,Email
+C00143,Germany,Stuttgart,2023-09-08,Regular,35-44,Organic
+C00144,Switzerland,Zurich,2023-08-16,Regular,25-34,Social Media
+C00145,Germany,Cologne,2023-07-08,Regular,35-44,Organic
+C00146,France,Lyon,2023-04-08,Churned,45-54,Organic
+C00147,Netherlands,Amsterdam,2023-01-26,VIP,25-34,Paid Search
+C00148,Netherlands,Amsterdam,2023-10-11,New,25-34,Paid Search
+C00149,Switzerland,Zurich,2023-01-02,Regular,25-34,Paid Search
+C00150,Austria,Vienna,2023-02-26,Regular,18-24,Paid Search
+C00151,Germany,Munich,2023-05-02,Regular,18-24,Paid Search
+C00152,Austria,Vienna,2023-03-06,VIP,55+,Organic
+C00153,Germany,Bremen,2023-08-18,VIP,55+,Referral
+C00154,Germany,Bremen,2023-09-15,New,55+,Organic
+C00155,Austria,Graz,2023-01-16,New,45-54,Email
+C00156,France,Marseille,2023-02-25,Regular,45-54,Organic
+C00157,Germany,Munich,2023-03-17,New,35-44,Referral
+C00158,Switzerland,Geneva,2023-09-29,Regular,55+,Referral
+C00159,France,Paris,2023-02-28,Churned,55+,Paid Search
+C00160,France,Lyon,2023-04-27,Regular,45-54,Email
+C00161,France,Marseille,2023-02-18,Regular,35-44,Social Media
+C00162,Switzerland,Zurich,2023-08-31,New,18-24,Organic
+C00163,France,Paris,2023-07-10,VIP,55+,Organic
+C00164,Switzerland,Basel,2023-03-04,Regular,45-54,Organic
+C00165,Austria,Salzburg,2023-06-09,Regular,55+,Referral
+C00166,Netherlands,Rotterdam,2023-09-04,New,18-24,Social Media
+C00167,Switzerland,Zurich,2023-05-23,Regular,45-54,Referral
+C00168,Germany,Frankfurt,2023-05-17,New,35-44,Social Media
+C00169,Switzerland,Geneva,2023-01-04,New,25-34,Referral
+C00170,France,Paris,2023-03-14,VIP,18-24,Organic
+C00171,Netherlands,Eindhoven,2023-08-03,Regular,25-34,Social Media
+C00172,Austria,Salzburg,2023-06-16,VIP,55+,Referral
+C00173,Germany,Berlin,2023-03-21,New,55+,Organic
+C00174,Germany,Munich,2023-08-15,Regular,45-54,Referral
+C00175,Belgium,Antwerp,2023-05-20,New,55+,Organic
+C00176,Switzerland,Geneva,2023-02-26,Regular,55+,Email
+C00177,Austria,Vienna,2023-04-23,Regular,55+,Organic
+C00178,Germany,Hamburg,2023-06-04,Churned,25-34,Social Media
+C00179,Austria,Graz,2023-03-03,New,45-54,Paid Search
+C00180,Germany,Bremen,2023-09-30,VIP,55+,Referral
+C00181,Switzerland,Zurich,2023-07-23,Churned,18-24,Email
+C00182,Germany,Bremen,2023-02-09,Churned,55+,Email
+C00183,France,Marseille,2023-08-02,Regular,45-54,Organic
+C00184,Switzerland,Zurich,2023-08-24,VIP,35-44,Organic
+C00185,France,Paris,2023-05-05,Regular,45-54,Referral
+C00186,Germany,Bremen,2023-06-08,VIP,25-34,Social Media
+C00187,Germany,Berlin,2023-09-19,Regular,55+,Referral
+C00188,Netherlands,Utrecht,2023-06-29,VIP,25-34,Paid Search
+C00189,Germany,Hamburg,2023-05-12,New,55+,Paid Search
+C00190,Germany,Hamburg,2023-09-10,Regular,55+,Referral
+C00191,Belgium,Ghent,2023-10-17,Regular,55+,Social Media
+C00192,Switzerland,Zurich,2023-08-14,New,45-54,Social Media
+C00193,Austria,Salzburg,2023-01-29,Regular,18-24,Social Media
+C00194,Belgium,Antwerp,2023-01-20,New,35-44,Organic
+C00195,Germany,Frankfurt,2023-09-17,Regular,55+,Referral
+C00196,Germany,Bremen,2023-10-20,Regular,35-44,Referral
+C00197,Belgium,Ghent,2023-03-19,Churned,45-54,Organic
+C00198,Switzerland,Basel,2023-02-13,Regular,25-34,Organic
+C00199,Netherlands,Eindhoven,2023-08-13,Regular,55+,Paid Search
+C00200,Switzerland,Geneva,2023-05-25,Regular,35-44,Referral
+C00201,Germany,Stuttgart,2023-06-21,New,18-24,Referral
+C00202,France,Lyon,2023-05-10,VIP,55+,Paid Search
+C00203,Switzerland,Zurich,2023-10-26,Regular,35-44,Social Media
+C00204,France,Paris,2023-02-13,Regular,45-54,Social Media
+C00205,Germany,Cologne,2023-09-27,New,45-54,Referral
+C00206,Switzerland,Zurich,2023-07-05,Regular,25-34,Social Media
+C00207,Belgium,Brussels,2023-04-26,Churned,25-34,Organic
+C00208,Austria,Vienna,2023-09-17,VIP,55+,Organic
+C00209,Switzerland,Basel,2023-03-09,Regular,25-34,Paid Search
+C00210,Germany,Stuttgart,2023-03-26,VIP,18-24,Email
+C00211,Switzerland,Basel,2023-05-02,Churned,55+,Social Media
+C00212,Belgium,Brussels,2023-10-01,New,45-54,Paid Search
+C00213,Switzerland,Basel,2023-10-20,Churned,45-54,Social Media
+C00214,France,Marseille,2023-09-28,Regular,25-34,Paid Search
+C00215,Germany,Stuttgart,2023-05-09,New,45-54,Social Media
+C00216,Germany,Cologne,2023-09-22,Churned,35-44,Organic
+C00217,Germany,Munich,2023-08-19,Churned,25-34,Email
+C00218,Germany,Hamburg,2023-08-19,Churned,18-24,Email
+C00219,Germany,Bremen,2023-09-15,Regular,45-54,Organic
+C00220,Switzerland,Zurich,2023-01-15,Regular,18-24,Social Media
+C00221,Germany,Hamburg,2023-01-20,Regular,45-54,Paid Search
+C00222,Belgium,Antwerp,2023-01-03,Churned,18-24,Social Media
+C00223,Netherlands,Rotterdam,2023-10-08,Churned,55+,Referral
+C00224,France,Paris,2023-05-28,New,18-24,Organic
+C00225,Netherlands,Eindhoven,2023-08-23,New,45-54,Referral
+C00226,Germany,Cologne,2023-09-21,Regular,25-34,Social Media
+C00227,France,Paris,2023-06-30,New,45-54,Paid Search
+C00228,Germany,Frankfurt,2023-07-04,New,55+,Referral
+C00229,Germany,Bremen,2023-08-29,New,45-54,Social Media
+C00230,Austria,Salzburg,2023-01-09,Regular,18-24,Social Media
+C00231,Netherlands,Amsterdam,2023-10-25,VIP,35-44,Paid Search
+C00232,Germany,Munich,2023-10-07,Regular,25-34,Email
+C00233,Belgium,Ghent,2023-04-04,VIP,18-24,Email
+C00234,Germany,Munich,2023-04-14,New,25-34,Organic
+C00235,Switzerland,Geneva,2023-09-21,Regular,55+,Email
+C00236,Austria,Vienna,2023-04-08,Regular,18-24,Social Media
+C00237,Austria,Vienna,2023-07-08,Regular,45-54,Email
+C00238,France,Lyon,2023-04-06,Regular,45-54,Social Media
+C00239,Austria,Vienna,2023-08-06,New,55+,Paid Search
+C00240,Austria,Graz,2023-02-22,New,35-44,Social Media
+C00241,Belgium,Ghent,2023-08-07,New,45-54,Social Media
+C00242,Belgium,Brussels,2023-06-30,Regular,45-54,Social Media
+C00243,Germany,Berlin,2023-07-27,Regular,25-34,Organic
+C00244,Germany,Stuttgart,2023-08-13,New,18-24,Paid Search
+C00245,Switzerland,Geneva,2023-07-16,Churned,18-24,Referral
+C00246,Germany,Cologne,2023-08-19,Churned,35-44,Email
+C00247,Germany,Frankfurt,2023-03-12,Regular,45-54,Social Media
+C00248,Austria,Vienna,2023-02-28,New,25-34,Email
+C00249,France,Marseille,2023-03-02,Regular,35-44,Email
+C00250,Netherlands,Utrecht,2023-09-09,New,25-34,Organic
+C00251,Belgium,Brussels,2023-08-16,Churned,35-44,Social Media
+C00252,Germany,Frankfurt,2023-10-05,Regular,35-44,Paid Search
+C00253,Germany,Stuttgart,2023-07-05,Regular,18-24,Paid Search
+C00254,Germany,Hamburg,2023-09-10,New,55+,Referral
+C00255,Switzerland,Geneva,2023-10-10,New,18-24,Organic
+C00256,Austria,Graz,2023-09-03,Regular,45-54,Referral
+C00257,Germany,Hamburg,2023-06-12,Regular,45-54,Email
+C00258,Switzerland,Zurich,2023-10-10,Regular,25-34,Paid Search
+C00259,France,Marseille,2023-01-29,VIP,55+,Paid Search
+C00260,Austria,Vienna,2023-03-24,Regular,25-34,Social Media
+C00261,Austria,Vienna,2023-05-09,New,55+,Social Media
+C00262,Germany,Cologne,2023-06-05,Regular,18-24,Referral
+C00263,Germany,Frankfurt,2023-10-25,New,55+,Referral
+C00264,Switzerland,Basel,2023-01-22,VIP,18-24,Organic
+C00265,Germany,Cologne,2023-10-23,Regular,25-34,Referral
+C00266,France,Marseille,2023-01-16,Regular,55+,Social Media
+C00267,Austria,Graz,2023-05-06,VIP,45-54,Social Media
+C00268,Belgium,Brussels,2023-01-31,New,45-54,Email
+C00269,Belgium,Brussels,2023-06-24,Regular,35-44,Social Media
+C00270,Switzerland,Geneva,2023-03-08,VIP,55+,Referral
+C00271,Germany,Munich,2023-05-04,Regular,35-44,Email
+C00272,Netherlands,Rotterdam,2023-02-19,New,45-54,Referral
+C00273,France,Paris,2023-03-23,VIP,55+,Social Media
+C00274,Netherlands,Rotterdam,2023-09-13,Churned,45-54,Email
+C00275,Austria,Graz,2023-01-12,New,45-54,Referral
+C00276,Belgium,Brussels,2023-04-21,Regular,18-24,Organic
+C00277,Austria,Graz,2023-08-29,Regular,18-24,Organic
+C00278,France,Paris,2023-05-16,VIP,45-54,Social Media
+C00279,Germany,Bremen,2023-01-27,Regular,25-34,Social Media
+C00280,Austria,Vienna,2023-07-17,Regular,55+,Social Media
+C00281,Germany,Hamburg,2023-02-19,Regular,35-44,Referral
+C00282,Switzerland,Zurich,2023-04-12,Regular,45-54,Referral
+C00283,Germany,Berlin,2023-01-20,New,35-44,Email
+C00284,Belgium,Brussels,2023-09-21,New,55+,Social Media
+C00285,Germany,Bremen,2023-06-03,Regular,55+,Referral
+C00286,Belgium,Ghent,2023-10-16,Regular,18-24,Social Media
+C00287,Switzerland,Basel,2023-02-26,Churned,55+,Social Media
+C00288,Germany,Frankfurt,2023-08-31,Regular,55+,Referral
+C00289,Netherlands,Amsterdam,2023-10-26,Regular,55+,Referral
+C00290,France,Paris,2023-05-05,New,18-24,Paid Search
+C00291,Germany,Bremen,2023-06-10,Regular,45-54,Paid Search
+C00292,France,Marseille,2023-08-30,Churned,18-24,Paid Search
+C00293,Netherlands,Utrecht,2023-09-02,Regular,35-44,Paid Search
+C00294,Belgium,Ghent,2023-06-25,Regular,35-44,Referral
+C00295,Belgium,Brussels,2023-05-07,Regular,35-44,Paid Search
+C00296,Austria,Graz,2023-04-17,Regular,45-54,Social Media
+C00297,Belgium,Antwerp,2023-10-14,Churned,35-44,Social Media
+C00298,Germany,Frankfurt,2023-10-06,Regular,45-54,Social Media
+C00299,Germany,Munich,2023-01-22,Regular,18-24,Social Media
+C00300,Belgium,Ghent,2023-05-12,VIP,25-34,Paid Search
+C00301,Austria,Salzburg,2023-05-20,New,55+,Referral
+C00302,Netherlands,Rotterdam,2023-01-26,Regular,55+,Paid Search
+C00303,Netherlands,Amsterdam,2023-02-21,Regular,45-54,Organic
+C00304,Germany,Berlin,2023-10-09,Churned,25-34,Email
+C00305,Belgium,Antwerp,2023-04-13,VIP,35-44,Social Media
+C00306,Austria,Salzburg,2023-01-31,Churned,18-24,Referral
+C00307,Netherlands,Amsterdam,2023-03-31,Regular,25-34,Organic
+C00308,France,Lyon,2023-04-06,Churned,35-44,Organic
+C00309,Germany,Munich,2023-10-18,Regular,35-44,Social Media
+C00310,Belgium,Ghent,2023-10-06,Regular,25-34,Referral
+C00311,Belgium,Antwerp,2023-04-09,VIP,35-44,Paid Search
+C00312,Belgium,Ghent,2023-05-12,VIP,18-24,Social Media
+C00313,Austria,Salzburg,2023-04-09,New,45-54,Email
+C00314,Switzerland,Zurich,2023-07-25,Regular,25-34,Paid Search
+C00315,Belgium,Antwerp,2023-05-08,New,45-54,Paid Search
+C00316,Belgium,Antwerp,2023-06-18,Regular,55+,Organic
+C00317,Austria,Salzburg,2023-07-04,Regular,18-24,Organic
+C00318,Belgium,Antwerp,2023-03-23,Regular,55+,Social Media
+C00319,Germany,Cologne,2023-06-01,Regular,25-34,Paid Search
+C00320,Germany,Bremen,2023-03-20,Regular,55+,Social Media
+C00321,France,Marseille,2023-10-09,Churned,55+,Paid Search
+C00322,Netherlands,Amsterdam,2023-09-27,Regular,35-44,Organic
+C00323,Germany,Berlin,2023-10-08,Churned,25-34,Referral
+C00324,Germany,Hamburg,2023-06-17,Churned,45-54,Organic
+C00325,Netherlands,Eindhoven,2023-02-16,Churned,45-54,Organic
+C00326,Belgium,Brussels,2023-09-20,Regular,55+,Organic
+C00327,Belgium,Ghent,2023-06-07,VIP,45-54,Social Media
+C00328,Germany,Cologne,2023-04-22,Regular,18-24,Email
+C00329,Switzerland,Basel,2023-02-02,Regular,18-24,Organic
+C00330,Belgium,Brussels,2023-05-27,Regular,25-34,Email
+C00331,Switzerland,Geneva,2023-08-18,Churned,45-54,Email
+C00332,Germany,Cologne,2023-10-04,New,35-44,Organic
+C00333,Germany,Frankfurt,2023-07-21,Regular,25-34,Organic
+C00334,Germany,Munich,2023-08-26,Regular,55+,Email
+C00335,France,Paris,2023-05-07,Regular,25-34,Social Media
+C00336,Netherlands,Amsterdam,2023-01-17,VIP,45-54,Referral
+C00337,Germany,Hamburg,2023-04-16,New,55+,Organic
+C00338,Belgium,Ghent,2023-01-25,New,18-24,Email
+C00339,Belgium,Brussels,2023-10-04,New,18-24,Paid Search
+C00340,Austria,Vienna,2023-10-22,Regular,55+,Social Media
+C00341,Netherlands,Utrecht,2023-03-15,Churned,55+,Paid Search
+C00342,France,Lyon,2023-05-21,New,55+,Paid Search
+C00343,France,Marseille,2023-09-11,New,35-44,Email
+C00344,Switzerland,Basel,2023-08-02,Regular,35-44,Email
+C00345,Germany,Stuttgart,2023-10-03,Regular,25-34,Social Media
+C00346,Germany,Stuttgart,2023-08-26,Churned,55+,Email
+C00347,France,Marseille,2023-09-29,New,25-34,Social Media
+C00348,Netherlands,Utrecht,2023-02-10,Churned,35-44,Organic
+C00349,Netherlands,Amsterdam,2023-05-18,Regular,55+,Referral
+C00350,Germany,Stuttgart,2023-02-07,New,55+,Referral
+C00351,Netherlands,Eindhoven,2023-04-17,Churned,35-44,Social Media
+C00352,Germany,Hamburg,2023-04-08,Churned,18-24,Email
+C00353,Netherlands,Rotterdam,2023-07-23,Churned,55+,Social Media
+C00354,Austria,Graz,2023-08-27,Regular,35-44,Social Media
+C00355,Austria,Graz,2023-09-20,Churned,45-54,Organic
+C00356,Belgium,Antwerp,2023-04-15,Regular,45-54,Organic
+C00357,Netherlands,Rotterdam,2023-01-09,Regular,55+,Referral
+C00358,France,Lyon,2023-03-20,New,25-34,Email
+C00359,Netherlands,Eindhoven,2023-10-09,Regular,35-44,Social Media
+C00360,Belgium,Ghent,2023-09-09,Regular,35-44,Paid Search
+C00361,Germany,Cologne,2023-10-07,Regular,55+,Organic
+C00362,Germany,Stuttgart,2023-02-08,Churned,18-24,Organic
+C00363,France,Paris,2023-04-29,New,25-34,Organic
+C00364,Netherlands,Eindhoven,2023-07-11,New,55+,Email
+C00365,Belgium,Brussels,2023-01-04,Regular,45-54,Organic
+C00366,Germany,Frankfurt,2023-05-21,Regular,35-44,Organic
+C00367,France,Paris,2023-02-24,Churned,55+,Paid Search
+C00368,Netherlands,Rotterdam,2023-09-27,Regular,35-44,Social Media
+C00369,France,Paris,2023-07-11,Churned,45-54,Referral
+C00370,Netherlands,Rotterdam,2023-06-03,Regular,18-24,Organic
+C00371,Germany,Bremen,2023-07-14,Regular,45-54,Organic
+C00372,Germany,Cologne,2023-03-29,New,45-54,Social Media
+C00373,Germany,Frankfurt,2023-01-22,New,55+,Email
+C00374,Austria,Vienna,2023-02-08,Regular,35-44,Referral
+C00375,Germany,Hamburg,2023-06-11,New,25-34,Referral
+C00376,Germany,Stuttgart,2023-07-23,Churned,35-44,Paid Search
+C00377,Netherlands,Eindhoven,2023-10-04,Regular,25-34,Organic
+C00378,Switzerland,Zurich,2023-02-20,Regular,18-24,Social Media
+C00379,France,Lyon,2023-01-16,Regular,45-54,Email
+C00380,Netherlands,Utrecht,2023-10-11,Churned,45-54,Paid Search
+C00381,France,Paris,2023-06-01,VIP,18-24,Organic
+C00382,Austria,Vienna,2023-07-14,VIP,25-34,Email
+C00383,Switzerland,Geneva,2023-02-24,New,35-44,Email
+C00384,Switzerland,Geneva,2023-02-22,New,25-34,Email
+C00385,Belgium,Ghent,2023-10-12,Regular,18-24,Organic
+C00386,Germany,Munich,2023-10-11,New,55+,Social Media
+C00387,France,Paris,2023-05-30,Regular,18-24,Referral
+C00388,Netherlands,Rotterdam,2023-07-14,New,35-44,Social Media
+C00389,Austria,Graz,2023-03-16,New,45-54,Social Media
+C00390,France,Lyon,2023-09-05,VIP,35-44,Social Media
+C00391,Netherlands,Eindhoven,2023-04-11,Regular,25-34,Social Media
+C00392,Germany,Bremen,2023-06-20,VIP,45-54,Social Media
+C00393,Belgium,Antwerp,2023-08-09,VIP,55+,Paid Search
+C00394,Austria,Graz,2023-04-13,Regular,25-34,Email
+C00395,Switzerland,Geneva,2023-09-09,Churned,25-34,Social Media
+C00396,France,Lyon,2023-07-21,Regular,55+,Paid Search
+C00397,Germany,Cologne,2023-10-09,New,45-54,Paid Search
+C00398,Belgium,Antwerp,2023-02-05,VIP,45-54,Email
+C00399,Germany,Cologne,2023-06-05,New,25-34,Email
+C00400,France,Paris,2023-08-18,Churned,45-54,Referral
+C00401,France,Marseille,2023-09-17,Churned,45-54,Referral
+C00402,Germany,Stuttgart,2023-07-04,VIP,55+,Referral
+C00403,Germany,Berlin,2023-05-08,Regular,35-44,Paid Search
+C00404,Germany,Frankfurt,2023-07-24,Churned,35-44,Email
+C00405,Germany,Berlin,2023-02-20,Regular,55+,Referral
+C00406,Netherlands,Eindhoven,2023-07-11,Regular,55+,Referral
+C00407,Germany,Munich,2023-01-13,Regular,35-44,Email
+C00408,Germany,Berlin,2023-03-14,Regular,35-44,Email
+C00409,Netherlands,Eindhoven,2023-06-28,Regular,45-54,Email
+C00410,Switzerland,Zurich,2023-06-03,New,18-24,Organic
+C00411,Switzerland,Basel,2023-02-25,Regular,25-34,Paid Search
+C00412,Germany,Frankfurt,2023-03-23,Regular,45-54,Email
+C00413,Netherlands,Eindhoven,2023-04-05,New,45-54,Email
+C00414,Germany,Cologne,2023-04-12,Regular,45-54,Email
+C00415,Germany,Cologne,2023-04-20,New,18-24,Referral
+C00416,Germany,Stuttgart,2023-10-02,New,35-44,Paid Search
+C00417,Belgium,Brussels,2023-05-15,Regular,45-54,Referral
+C00418,Switzerland,Basel,2023-07-18,Regular,55+,Organic
+C00419,Switzerland,Geneva,2023-08-23,Regular,35-44,Referral
+C00420,Germany,Cologne,2023-03-10,Regular,25-34,Social Media
+C00421,Germany,Hamburg,2023-07-11,Regular,55+,Email
+C00422,France,Marseille,2023-03-12,Regular,45-54,Paid Search
+C00423,Belgium,Ghent,2023-10-03,Regular,25-34,Referral
+C00424,Germany,Bremen,2023-05-28,New,35-44,Email
+C00425,Germany,Stuttgart,2023-07-03,Churned,45-54,Paid Search
+C00426,Netherlands,Eindhoven,2023-10-15,Regular,45-54,Email
+C00427,Belgium,Antwerp,2023-08-16,Regular,18-24,Referral
+C00428,Germany,Stuttgart,2023-04-23,Regular,35-44,Paid Search
+C00429,Austria,Vienna,2023-08-23,Regular,45-54,Referral
+C00430,Germany,Frankfurt,2023-02-28,Regular,55+,Social Media
+C00431,Germany,Stuttgart,2023-08-14,Regular,45-54,Organic
+C00432,Netherlands,Utrecht,2023-01-17,Regular,35-44,Organic
+C00433,Belgium,Brussels,2023-05-02,New,55+,Social Media
+C00434,France,Paris,2023-03-13,VIP,25-34,Organic
+C00435,Switzerland,Basel,2023-05-24,Regular,25-34,Social Media
+C00436,Austria,Graz,2023-10-21,Regular,55+,Organic
+C00437,Germany,Stuttgart,2023-07-30,Churned,35-44,Paid Search
+C00438,Germany,Hamburg,2023-03-16,VIP,25-34,Email
+C00439,Belgium,Brussels,2023-10-23,Regular,45-54,Email
+C00440,Belgium,Brussels,2023-02-17,Regular,35-44,Social Media
+C00441,Belgium,Antwerp,2023-06-17,Regular,18-24,Email
+C00442,Switzerland,Zurich,2023-10-01,Regular,45-54,Paid Search
+C00443,Belgium,Antwerp,2023-06-15,VIP,35-44,Referral
+C00444,Germany,Frankfurt,2023-09-06,VIP,18-24,Organic
+C00445,Germany,Cologne,2023-08-24,New,25-34,Email
+C00446,Belgium,Brussels,2023-08-08,New,25-34,Social Media
+C00447,Germany,Stuttgart,2023-05-21,New,35-44,Social Media
+C00448,Germany,Munich,2023-03-26,New,35-44,Paid Search
+C00449,France,Marseille,2023-02-16,VIP,18-24,Paid Search
+C00450,Belgium,Brussels,2023-03-09,Regular,55+,Email
+C00451,Germany,Berlin,2023-06-25,VIP,45-54,Paid Search
+C00452,Belgium,Brussels,2023-04-28,Regular,18-24,Organic
+C00453,Switzerland,Geneva,2023-06-03,New,25-34,Paid Search
+C00454,Germany,Frankfurt,2023-10-16,New,25-34,Email
+C00455,Switzerland,Basel,2023-04-20,Regular,25-34,Email
+C00456,Belgium,Brussels,2023-02-14,Churned,25-34,Organic
+C00457,France,Lyon,2023-08-08,Regular,25-34,Paid Search
+C00458,Austria,Salzburg,2023-02-13,New,55+,Referral
+C00459,Austria,Salzburg,2023-01-14,VIP,35-44,Paid Search
+C00460,Netherlands,Eindhoven,2023-06-01,Regular,25-34,Email
+C00461,France,Paris,2023-05-04,Regular,55+,Organic
+C00462,Germany,Munich,2023-06-12,New,55+,Email
+C00463,Switzerland,Basel,2023-03-30,VIP,18-24,Organic
+C00464,Germany,Berlin,2023-05-15,New,18-24,Email
+C00465,Austria,Salzburg,2023-09-14,VIP,45-54,Email
+C00466,Germany,Cologne,2023-10-02,Regular,25-34,Social Media
+C00467,Germany,Munich,2023-02-10,Regular,25-34,Paid Search
+C00468,Switzerland,Geneva,2023-10-28,Regular,18-24,Social Media
+C00469,France,Marseille,2023-05-03,New,18-24,Email
+C00470,Germany,Bremen,2023-01-29,Regular,25-34,Organic
+C00471,Germany,Cologne,2023-03-12,VIP,25-34,Email
+C00472,Switzerland,Basel,2023-09-22,VIP,35-44,Paid Search
+C00473,Switzerland,Zurich,2023-05-18,VIP,18-24,Organic
+C00474,Switzerland,Geneva,2023-05-20,Regular,35-44,Referral
+C00475,Germany,Bremen,2023-08-22,Regular,18-24,Email
+C00476,Germany,Munich,2023-03-22,Regular,18-24,Referral
+C00477,Germany,Hamburg,2023-09-18,New,18-24,Paid Search
+C00478,Germany,Bremen,2023-07-06,Regular,25-34,Paid Search
+C00479,Germany,Frankfurt,2023-08-03,New,25-34,Email
+C00480,Switzerland,Geneva,2023-02-09,Regular,18-24,Referral
+C00481,Germany,Hamburg,2023-04-25,VIP,18-24,Email
+C00482,Germany,Bremen,2023-05-25,VIP,35-44,Social Media
+C00483,Germany,Frankfurt,2023-08-22,New,25-34,Social Media
+C00484,Austria,Salzburg,2023-05-05,Regular,55+,Email
+C00485,Netherlands,Rotterdam,2023-03-19,New,45-54,Organic
+C00486,Netherlands,Utrecht,2023-01-05,Churned,18-24,Email
+C00487,Austria,Vienna,2023-04-16,Regular,25-34,Email
+C00488,Belgium,Brussels,2023-03-14,VIP,18-24,Organic
+C00489,Netherlands,Eindhoven,2023-07-10,Regular,18-24,Referral
+C00490,Germany,Frankfurt,2023-03-10,Regular,45-54,Organic
+C00491,Germany,Bremen,2023-03-08,New,35-44,Social Media
+C00492,France,Marseille,2023-06-17,Regular,35-44,Paid Search
+C00493,Germany,Hamburg,2023-03-11,VIP,55+,Organic
+C00494,Germany,Berlin,2023-03-26,Regular,35-44,Email
+C00495,Germany,Frankfurt,2023-07-03,Churned,25-34,Email
+C00496,Austria,Graz,2023-05-16,Churned,18-24,Paid Search
+C00497,Austria,Salzburg,2023-01-21,New,35-44,Paid Search
+C00498,Germany,Cologne,2023-05-08,Churned,45-54,Referral
+C00499,Germany,Cologne,2023-06-03,Regular,25-34,Organic
+C00500,France,Lyon,2023-10-12,VIP,25-34,Organic
+C00501,Belgium,Brussels,2023-03-13,New,18-24,Paid Search
+C00502,Germany,Hamburg,2023-07-25,Regular,18-24,Referral
+C00503,Austria,Vienna,2023-01-12,Churned,25-34,Email
+C00504,Germany,Berlin,2023-06-19,New,45-54,Organic
+C00505,Germany,Frankfurt,2023-08-10,VIP,45-54,Email
+C00506,Germany,Bremen,2023-08-07,New,25-34,Paid Search
+C00507,Austria,Graz,2023-08-17,Churned,18-24,Referral
+C00508,Netherlands,Utrecht,2023-09-13,Regular,55+,Email
+C00509,Germany,Berlin,2023-05-24,Regular,45-54,Paid Search
+C00510,Netherlands,Amsterdam,2023-07-15,VIP,35-44,Email
+C00511,Belgium,Antwerp,2023-10-17,Regular,45-54,Social Media
+C00512,Germany,Berlin,2023-06-13,Regular,18-24,Social Media
+C00513,Germany,Stuttgart,2023-08-30,Regular,55+,Paid Search
+C00514,Germany,Berlin,2023-05-07,Regular,35-44,Referral
+C00515,Germany,Stuttgart,2023-04-23,Regular,45-54,Social Media
+C00516,Germany,Hamburg,2023-05-02,Regular,35-44,Referral
+C00517,Germany,Cologne,2023-06-30,Churned,55+,Paid Search
+C00518,Netherlands,Eindhoven,2023-10-05,Regular,45-54,Organic
+C00519,Germany,Berlin,2023-04-30,Regular,18-24,Referral
+C00520,Belgium,Brussels,2023-06-19,Churned,25-34,Paid Search
+C00521,Switzerland,Basel,2023-04-01,Churned,35-44,Organic
+C00522,Germany,Hamburg,2023-10-28,VIP,25-34,Organic
+C00523,Switzerland,Zurich,2023-07-11,VIP,45-54,Referral
+C00524,Germany,Munich,2023-06-04,Regular,25-34,Email
+C00525,Belgium,Ghent,2023-06-12,New,55+,Referral
+C00526,Switzerland,Zurich,2023-03-31,Regular,35-44,Paid Search
+C00527,Germany,Cologne,2023-01-01,Churned,55+,Email
+C00528,Germany,Hamburg,2023-06-12,Churned,55+,Paid Search
+C00529,Germany,Bremen,2023-03-14,Regular,18-24,Paid Search
+C00530,Switzerland,Geneva,2023-03-27,Regular,18-24,Social Media
+C00531,Belgium,Brussels,2023-05-16,New,18-24,Social Media
+C00532,Austria,Vienna,2023-01-01,New,45-54,Email
+C00533,Germany,Bremen,2023-09-10,Churned,35-44,Referral
+C00534,France,Paris,2023-09-03,VIP,55+,Paid Search
+C00535,Germany,Bremen,2023-02-07,VIP,18-24,Social Media
+C00536,Germany,Munich,2023-05-14,Churned,18-24,Social Media
+C00537,Germany,Bremen,2023-03-24,VIP,55+,Organic
+C00538,Switzerland,Basel,2023-09-05,VIP,45-54,Paid Search
+C00539,France,Paris,2023-01-28,New,25-34,Paid Search
+C00540,France,Marseille,2023-10-11,VIP,55+,Social Media
+C00541,Austria,Graz,2023-05-02,New,45-54,Referral
+C00542,Belgium,Brussels,2023-01-28,Regular,45-54,Organic
+C00543,Austria,Salzburg,2023-09-03,New,18-24,Paid Search
+C00544,Germany,Cologne,2023-05-30,Churned,45-54,Organic
+C00545,Austria,Graz,2023-08-30,Regular,35-44,Organic
+C00546,France,Paris,2023-07-09,Churned,35-44,Paid Search
+C00547,Belgium,Brussels,2023-05-15,Regular,35-44,Paid Search
+C00548,Austria,Salzburg,2023-02-01,New,18-24,Organic
+C00549,Switzerland,Basel,2023-07-31,Churned,55+,Paid Search
+C00550,Germany,Stuttgart,2023-07-18,VIP,45-54,Referral
+C00551,Belgium,Ghent,2023-05-01,Regular,18-24,Email
+C00552,Germany,Frankfurt,2023-10-20,Churned,55+,Referral
+C00553,Germany,Berlin,2023-08-18,New,25-34,Paid Search
+C00554,Netherlands,Rotterdam,2023-01-22,Regular,45-54,Paid Search
+C00555,Germany,Stuttgart,2023-05-13,Regular,18-24,Organic
+C00556,France,Marseille,2023-07-23,Regular,35-44,Referral
+C00557,Belgium,Brussels,2023-10-28,Regular,45-54,Organic
+C00558,France,Paris,2023-03-17,Regular,55+,Organic
+C00559,Germany,Frankfurt,2023-02-21,VIP,55+,Social Media
+C00560,France,Lyon,2023-07-16,Regular,55+,Referral
+C00561,Belgium,Brussels,2023-03-30,Regular,25-34,Referral
+C00562,France,Paris,2023-07-22,Churned,35-44,Paid Search
+C00563,Germany,Cologne,2023-09-01,Churned,35-44,Organic
+C00564,Switzerland,Geneva,2023-06-09,Regular,45-54,Organic
+C00565,Netherlands,Rotterdam,2023-06-03,Churned,45-54,Social Media
+C00566,Austria,Salzburg,2023-08-02,Regular,18-24,Paid Search
+C00567,Belgium,Brussels,2023-07-28,VIP,55+,Social Media
+C00568,Germany,Frankfurt,2023-03-23,New,55+,Email
+C00569,Germany,Stuttgart,2023-09-26,Churned,18-24,Paid Search
+C00570,Netherlands,Rotterdam,2023-01-30,New,45-54,Organic
+C00571,Switzerland,Basel,2023-04-12,Regular,45-54,Referral
+C00572,France,Marseille,2023-03-05,Regular,25-34,Social Media
+C00573,Belgium,Ghent,2023-08-17,New,45-54,Referral
+C00574,Switzerland,Geneva,2023-03-25,VIP,35-44,Organic
+C00575,Austria,Vienna,2023-07-17,New,55+,Paid Search
+C00576,Netherlands,Rotterdam,2023-04-16,Regular,45-54,Referral
+C00577,Germany,Stuttgart,2023-01-05,Regular,25-34,Paid Search
+C00578,Germany,Hamburg,2023-05-10,Regular,35-44,Social Media
+C00579,France,Lyon,2023-06-28,Regular,25-34,Email
+C00580,Austria,Salzburg,2023-09-24,VIP,45-54,Referral
+C00581,Germany,Berlin,2023-09-19,Churned,35-44,Referral
+C00582,Austria,Graz,2023-02-25,Regular,35-44,Social Media
+C00583,Switzerland,Geneva,2023-05-14,Regular,35-44,Paid Search
+C00584,Germany,Frankfurt,2023-05-04,Churned,55+,Email
+C00585,Switzerland,Basel,2023-03-13,VIP,45-54,Social Media
+C00586,Austria,Graz,2023-07-27,Regular,18-24,Referral
+C00587,Netherlands,Utrecht,2023-04-24,Regular,45-54,Social Media
+C00588,Austria,Vienna,2023-10-13,New,18-24,Email
+C00589,Germany,Cologne,2023-05-13,VIP,55+,Paid Search
+C00590,Switzerland,Basel,2023-02-15,New,25-34,Social Media
+C00591,France,Lyon,2023-07-10,Regular,35-44,Email
+C00592,Germany,Bremen,2023-01-28,Churned,55+,Referral
+C00593,Germany,Bremen,2023-04-10,Regular,45-54,Referral
+C00594,Austria,Graz,2023-01-28,Churned,25-34,Paid Search
+C00595,Netherlands,Utrecht,2023-07-29,Churned,45-54,Paid Search
+C00596,Switzerland,Basel,2023-04-03,VIP,45-54,Social Media
+C00597,Germany,Munich,2023-01-30,New,35-44,Paid Search
+C00598,Germany,Frankfurt,2023-03-23,Regular,18-24,Paid Search
+C00599,France,Marseille,2023-08-08,Regular,45-54,Email
+C00600,Germany,Berlin,2023-10-01,New,35-44,Organic
+C00601,Switzerland,Basel,2023-04-08,New,18-24,Paid Search
+C00602,Netherlands,Utrecht,2023-06-09,New,45-54,Referral
+C00603,Austria,Vienna,2023-02-03,VIP,35-44,Social Media
+C00604,Belgium,Ghent,2023-09-24,Regular,35-44,Email
+C00605,Germany,Munich,2023-09-08,Regular,25-34,Paid Search
+C00606,France,Paris,2023-04-27,New,25-34,Paid Search
+C00607,Germany,Frankfurt,2023-09-16,New,35-44,Organic
+C00608,France,Marseille,2023-05-11,VIP,55+,Organic
+C00609,Germany,Cologne,2023-02-25,Regular,18-24,Organic
+C00610,Germany,Bremen,2023-08-16,Regular,55+,Social Media
+C00611,Belgium,Ghent,2023-03-20,New,18-24,Social Media
+C00612,France,Marseille,2023-02-21,Regular,35-44,Referral
+C00613,Germany,Bremen,2023-02-23,Regular,55+,Organic
+C00614,Austria,Vienna,2023-02-24,Regular,55+,Paid Search
+C00615,Austria,Salzburg,2023-04-14,Regular,45-54,Social Media
+C00616,Germany,Berlin,2023-10-08,Regular,25-34,Email
+C00617,Switzerland,Zurich,2023-01-02,New,18-24,Organic
+C00618,Belgium,Brussels,2023-02-16,VIP,18-24,Organic
+C00619,Austria,Salzburg,2023-04-29,Regular,35-44,Social Media
+C00620,Belgium,Brussels,2023-02-21,VIP,18-24,Social Media
+C00621,Switzerland,Basel,2023-06-10,Regular,18-24,Organic
+C00622,Germany,Berlin,2023-03-12,Regular,25-34,Social Media
+C00623,Switzerland,Geneva,2023-05-18,Churned,18-24,Social Media
+C00624,Switzerland,Zurich,2023-02-28,Regular,45-54,Social Media
+C00625,France,Marseille,2023-09-02,VIP,25-34,Organic
+C00626,Germany,Cologne,2023-01-31,Churned,25-34,Organic
+C00627,France,Marseille,2023-09-05,VIP,45-54,Paid Search
+C00628,France,Lyon,2023-01-15,Churned,25-34,Email
+C00629,Belgium,Brussels,2023-07-30,Regular,18-24,Social Media
+C00630,Switzerland,Zurich,2023-09-26,VIP,55+,Referral
+C00631,Netherlands,Utrecht,2023-09-23,Regular,55+,Organic
+C00632,France,Marseille,2023-05-08,Regular,45-54,Paid Search
+C00633,Germany,Berlin,2023-03-22,Regular,45-54,Email
+C00634,Germany,Berlin,2023-09-09,Regular,35-44,Social Media
+C00635,Germany,Frankfurt,2023-04-25,Regular,45-54,Email
+C00636,Netherlands,Amsterdam,2023-08-24,Regular,55+,Email
+C00637,Germany,Stuttgart,2023-09-13,Regular,18-24,Email
+C00638,Germany,Berlin,2023-07-26,Regular,55+,Referral
+C00639,Germany,Stuttgart,2023-02-16,VIP,55+,Social Media
+C00640,Netherlands,Eindhoven,2023-06-24,Regular,18-24,Paid Search
+C00641,Belgium,Antwerp,2023-10-14,VIP,55+,Email
+C00642,Switzerland,Basel,2023-08-20,New,25-34,Organic
+C00643,Switzerland,Geneva,2023-05-30,Regular,35-44,Organic
+C00644,Germany,Hamburg,2023-09-10,New,45-54,Organic
+C00645,Austria,Salzburg,2023-04-11,New,45-54,Paid Search
+C00646,Belgium,Brussels,2023-06-23,New,45-54,Organic
+C00647,Germany,Stuttgart,2023-08-19,Regular,55+,Referral
+C00648,Germany,Bremen,2023-01-03,Regular,18-24,Referral
+C00649,France,Marseille,2023-09-05,Churned,25-34,Referral
+C00650,Germany,Cologne,2023-03-07,New,55+,Referral
+C00651,Switzerland,Basel,2023-07-16,Regular,55+,Paid Search
+C00652,Austria,Graz,2023-06-25,Churned,45-54,Paid Search
+C00653,Germany,Bremen,2023-09-20,Regular,55+,Social Media
+C00654,Netherlands,Rotterdam,2023-04-18,Regular,35-44,Social Media
+C00655,Germany,Cologne,2023-04-02,Regular,35-44,Organic
+C00656,Switzerland,Basel,2023-09-03,Regular,45-54,Referral
+C00657,Austria,Graz,2023-01-07,Regular,18-24,Email
+C00658,Germany,Berlin,2023-01-29,New,25-34,Social Media
+C00659,Austria,Vienna,2023-02-01,Regular,35-44,Paid Search
+C00660,Germany,Munich,2023-08-20,New,55+,Paid Search
+C00661,France,Paris,2023-09-19,VIP,35-44,Organic
+C00662,France,Lyon,2023-08-02,Churned,35-44,Referral
+C00663,Germany,Berlin,2023-05-09,New,45-54,Paid Search
+C00664,Switzerland,Basel,2023-10-07,VIP,25-34,Paid Search
+C00665,Austria,Graz,2023-04-01,Churned,18-24,Paid Search
+C00666,Germany,Cologne,2023-09-21,New,18-24,Email
+C00667,Austria,Salzburg,2023-05-16,New,55+,Social Media
+C00668,Germany,Munich,2023-08-27,VIP,25-34,Organic
+C00669,Germany,Munich,2023-01-27,VIP,55+,Social Media
+C00670,Belgium,Ghent,2023-10-09,Regular,35-44,Referral
+C00671,Netherlands,Rotterdam,2023-09-24,New,55+,Paid Search
+C00672,France,Marseille,2023-10-02,Regular,35-44,Paid Search
+C00673,Netherlands,Utrecht,2023-06-19,Regular,25-34,Referral
+C00674,Belgium,Ghent,2023-01-05,New,35-44,Email
+C00675,Netherlands,Rotterdam,2023-01-21,Regular,35-44,Email
+C00676,Germany,Bremen,2023-05-12,Regular,35-44,Organic
+C00677,Switzerland,Basel,2023-09-18,Regular,18-24,Social Media
+C00678,Netherlands,Utrecht,2023-09-21,New,18-24,Paid Search
+C00679,Germany,Cologne,2023-02-03,New,25-34,Email
+C00680,Germany,Hamburg,2023-10-03,VIP,45-54,Organic
+C00681,Germany,Berlin,2023-08-24,VIP,18-24,Organic
+C00682,Germany,Berlin,2023-04-02,VIP,55+,Organic
+C00683,Netherlands,Utrecht,2023-07-28,Regular,45-54,Email
+C00684,Switzerland,Zurich,2023-07-19,Regular,55+,Organic
+C00685,Germany,Stuttgart,2023-10-27,New,18-24,Social Media
+C00686,Germany,Munich,2023-06-04,Regular,35-44,Email
+C00687,France,Lyon,2023-01-16,Regular,55+,Paid Search
+C00688,Germany,Cologne,2023-07-20,VIP,55+,Social Media
+C00689,Germany,Munich,2023-07-11,Churned,18-24,Referral
+C00690,Germany,Berlin,2023-01-22,New,55+,Email
+C00691,Germany,Munich,2023-04-18,VIP,35-44,Paid Search
+C00692,France,Marseille,2023-09-20,New,25-34,Paid Search
+C00693,Austria,Vienna,2023-02-28,New,55+,Organic
+C00694,Belgium,Ghent,2023-10-09,New,18-24,Social Media
+C00695,Germany,Hamburg,2023-10-25,Regular,35-44,Social Media
+C00696,Germany,Cologne,2023-05-01,New,55+,Organic
+C00697,Netherlands,Utrecht,2023-09-06,Regular,55+,Social Media
+C00698,Germany,Frankfurt,2023-10-18,Regular,35-44,Email
+C00699,Germany,Berlin,2023-06-10,New,25-34,Email
+C00700,Austria,Graz,2023-03-10,Regular,35-44,Email
+C00701,Belgium,Antwerp,2023-07-03,VIP,45-54,Referral
+C00702,Germany,Hamburg,2023-02-11,VIP,25-34,Referral
+C00703,Netherlands,Utrecht,2023-02-09,VIP,18-24,Referral
+C00704,Germany,Stuttgart,2023-10-25,Regular,55+,Paid Search
+C00705,Germany,Frankfurt,2023-05-14,Regular,55+,Email
+C00706,Germany,Munich,2023-07-20,New,55+,Social Media
+C00707,Germany,Bremen,2023-09-14,Regular,45-54,Social Media
+C00708,Germany,Cologne,2023-05-03,VIP,55+,Paid Search
+C00709,Germany,Bremen,2023-03-23,New,55+,Paid Search
+C00710,Belgium,Antwerp,2023-01-21,New,45-54,Paid Search
+C00711,Germany,Munich,2023-07-09,New,25-34,Referral
+C00712,Switzerland,Geneva,2023-08-29,Churned,18-24,Organic
+C00713,Switzerland,Zurich,2023-09-24,Regular,35-44,Social Media
+C00714,Germany,Bremen,2023-07-13,Regular,18-24,Referral
+C00715,Austria,Graz,2023-04-25,Regular,35-44,Social Media
+C00716,Belgium,Antwerp,2023-01-04,Regular,25-34,Email
+C00717,Germany,Hamburg,2023-02-09,Regular,35-44,Paid Search
+C00718,Germany,Hamburg,2023-03-22,Regular,18-24,Paid Search
+C00719,France,Lyon,2023-02-28,Regular,45-54,Email
+C00720,Netherlands,Rotterdam,2023-07-30,New,18-24,Paid Search
+C00721,Germany,Hamburg,2023-09-20,New,55+,Paid Search
+C00722,Germany,Hamburg,2023-05-13,Churned,55+,Email
+C00723,Germany,Cologne,2023-05-26,Churned,25-34,Email
+C00724,Belgium,Antwerp,2023-03-29,New,45-54,Referral
+C00725,Germany,Stuttgart,2023-10-26,VIP,25-34,Referral
+C00726,Austria,Vienna,2023-06-25,Churned,55+,Referral
+C00727,Germany,Hamburg,2023-07-13,Regular,18-24,Organic
+C00728,Netherlands,Eindhoven,2023-03-18,Regular,25-34,Email
+C00729,Germany,Stuttgart,2023-09-30,Regular,18-24,Organic
+C00730,Belgium,Ghent,2023-03-08,Churned,55+,Organic
+C00731,France,Marseille,2023-08-04,Regular,18-24,Referral
+C00732,France,Paris,2023-09-04,VIP,45-54,Social Media
+C00733,Germany,Bremen,2023-03-10,Regular,25-34,Organic
+C00734,Austria,Salzburg,2023-10-06,Regular,25-34,Organic
+C00735,Germany,Frankfurt,2023-09-25,New,18-24,Email
+C00736,Netherlands,Utrecht,2023-07-29,Regular,25-34,Email
+C00737,Austria,Graz,2023-10-02,Regular,35-44,Referral
+C00738,Austria,Salzburg,2023-07-23,VIP,45-54,Referral
+C00739,Belgium,Brussels,2023-07-09,Regular,45-54,Social Media
+C00740,Austria,Salzburg,2023-06-26,VIP,45-54,Paid Search
+C00741,Germany,Cologne,2023-04-28,Regular,25-34,Organic
+C00742,Netherlands,Eindhoven,2023-06-23,VIP,55+,Organic
+C00743,Germany,Bremen,2023-01-03,VIP,25-34,Email
+C00744,France,Paris,2023-02-02,Regular,35-44,Organic
+C00745,Germany,Cologne,2023-07-16,Churned,45-54,Referral
+C00746,Austria,Salzburg,2023-01-30,Churned,25-34,Email
+C00747,Belgium,Brussels,2023-04-14,Churned,55+,Social Media
+C00748,Netherlands,Amsterdam,2023-09-19,Regular,25-34,Referral
+C00749,Germany,Cologne,2023-01-19,Regular,18-24,Paid Search
+C00750,Germany,Munich,2023-07-24,Regular,45-54,Email
+C00751,Netherlands,Amsterdam,2023-02-05,Churned,55+,Social Media
+C00752,Switzerland,Geneva,2023-05-22,New,25-34,Email
+C00753,France,Marseille,2023-01-03,Regular,45-54,Referral
+C00754,Germany,Frankfurt,2023-02-07,Regular,35-44,Organic
+C00755,Austria,Salzburg,2023-10-22,Regular,45-54,Email
+C00756,Belgium,Brussels,2023-06-23,Churned,45-54,Email
+C00757,Germany,Bremen,2023-03-01,Regular,45-54,Paid Search
+C00758,Netherlands,Utrecht,2023-07-31,Churned,55+,Referral
+C00759,Germany,Cologne,2023-05-15,New,18-24,Email
+C00760,Switzerland,Zurich,2023-10-11,Churned,45-54,Social Media
+C00761,Switzerland,Zurich,2023-10-21,Regular,25-34,Email
+C00762,Netherlands,Rotterdam,2023-05-04,Churned,25-34,Paid Search
+C00763,Netherlands,Rotterdam,2023-07-02,New,18-24,Organic
+C00764,Germany,Cologne,2023-09-10,Regular,55+,Organic
+C00765,Belgium,Antwerp,2023-06-11,Regular,55+,Social Media
+C00766,Belgium,Brussels,2023-09-19,Regular,25-34,Referral
+C00767,Germany,Berlin,2023-09-27,VIP,45-54,Referral
+C00768,Germany,Frankfurt,2023-06-27,Regular,25-34,Email
+C00769,Germany,Cologne,2023-09-23,Regular,18-24,Organic
+C00770,Netherlands,Eindhoven,2023-10-25,New,35-44,Referral
+C00771,Austria,Vienna,2023-10-08,Regular,35-44,Email
+C00772,Switzerland,Geneva,2023-04-05,Regular,25-34,Email
+C00773,Switzerland,Geneva,2023-07-25,Regular,25-34,Referral
+C00774,Germany,Frankfurt,2023-04-28,VIP,35-44,Paid Search
+C00775,France,Lyon,2023-04-11,New,25-34,Email
+C00776,Germany,Hamburg,2023-08-04,Regular,55+,Referral
+C00777,Switzerland,Geneva,2023-06-03,Regular,55+,Organic
+C00778,France,Paris,2023-03-25,New,35-44,Email
+C00779,Germany,Bremen,2023-06-21,Regular,35-44,Referral
+C00780,Austria,Graz,2023-01-11,Regular,35-44,Referral
+C00781,Netherlands,Rotterdam,2023-05-26,Regular,55+,Email
+C00782,Belgium,Brussels,2023-07-15,Regular,45-54,Paid Search
+C00783,Germany,Cologne,2023-06-22,Regular,55+,Referral
+C00784,France,Paris,2023-02-10,New,25-34,Social Media
+C00785,Switzerland,Basel,2023-05-30,VIP,55+,Email
+C00786,Austria,Graz,2023-07-05,VIP,55+,Email
+C00787,France,Paris,2023-04-05,Churned,25-34,Paid Search
+C00788,Austria,Salzburg,2023-02-10,New,45-54,Organic
+C00789,Germany,Berlin,2023-08-31,Regular,18-24,Email
+C00790,Germany,Berlin,2023-05-15,Regular,18-24,Email
+C00791,Austria,Vienna,2023-05-07,VIP,45-54,Paid Search
+C00792,Germany,Frankfurt,2023-03-29,New,35-44,Social Media
+C00793,Belgium,Antwerp,2023-10-04,Churned,55+,Email
+C00794,Germany,Cologne,2023-10-04,New,55+,Email
+C00795,France,Marseille,2023-10-01,Regular,35-44,Email
+C00796,Netherlands,Amsterdam,2023-08-15,Regular,45-54,Social Media
+C00797,Germany,Munich,2023-01-06,New,25-34,Social Media
+C00798,Austria,Graz,2023-10-01,New,45-54,Email
+C00799,Austria,Vienna,2023-08-09,VIP,55+,Paid Search
+C00800,Germany,Frankfurt,2023-07-11,New,55+,Email
+C00801,France,Paris,2023-03-25,VIP,45-54,Email
+C00802,Netherlands,Utrecht,2023-02-10,Regular,25-34,Referral
+C00803,Austria,Graz,2023-09-30,VIP,45-54,Paid Search
+C00804,Germany,Hamburg,2023-03-11,Regular,45-54,Referral
+C00805,Belgium,Antwerp,2023-09-09,New,18-24,Paid Search
+C00806,Germany,Frankfurt,2023-01-12,New,18-24,Social Media
+C00807,Austria,Vienna,2023-08-13,VIP,25-34,Organic
+C00808,Germany,Berlin,2023-09-10,New,45-54,Social Media
+C00809,Belgium,Antwerp,2023-08-26,Regular,18-24,Social Media
+C00810,Germany,Stuttgart,2023-03-16,New,45-54,Organic
+C00811,Belgium,Brussels,2023-04-09,Churned,35-44,Email
+C00812,Germany,Berlin,2023-05-08,Regular,45-54,Paid Search
+C00813,Germany,Hamburg,2023-08-24,VIP,18-24,Referral
+C00814,Netherlands,Eindhoven,2023-07-19,Regular,35-44,Social Media
+C00815,Germany,Cologne,2023-01-22,VIP,55+,Referral
+C00816,Germany,Munich,2023-09-04,Regular,25-34,Social Media
+C00817,Germany,Stuttgart,2023-04-22,Churned,25-34,Email
+C00818,Switzerland,Zurich,2023-03-27,VIP,55+,Organic
+C00819,France,Paris,2023-01-05,Churned,55+,Email
+C00820,Germany,Munich,2023-02-15,New,45-54,Organic
+C00821,Switzerland,Basel,2023-01-31,New,25-34,Referral
+C00822,Germany,Hamburg,2023-09-07,New,55+,Social Media
+C00823,Belgium,Ghent,2023-04-09,New,45-54,Social Media
+C00824,Germany,Munich,2023-01-21,Regular,45-54,Referral
+C00825,Austria,Salzburg,2023-09-08,New,25-34,Referral
+C00826,Switzerland,Geneva,2023-08-28,Regular,55+,Referral
+C00827,Germany,Berlin,2023-09-29,New,35-44,Social Media
+C00828,Switzerland,Geneva,2023-01-01,VIP,55+,Email
+C00829,Germany,Berlin,2023-07-06,VIP,25-34,Social Media
+C00830,Germany,Cologne,2023-10-03,VIP,25-34,Referral
+C00831,Belgium,Ghent,2023-03-20,Regular,35-44,Email
+C00832,Switzerland,Zurich,2023-02-19,Regular,18-24,Organic
+C00833,Germany,Hamburg,2023-01-17,New,45-54,Paid Search
+C00834,Germany,Berlin,2023-10-20,Regular,45-54,Email
+C00835,Austria,Vienna,2023-07-07,New,18-24,Organic
+C00836,Netherlands,Eindhoven,2023-02-10,Regular,18-24,Social Media
+C00837,France,Lyon,2023-01-30,VIP,35-44,Referral
+C00838,Germany,Cologne,2023-02-06,VIP,18-24,Paid Search
+C00839,Germany,Berlin,2023-04-29,Regular,25-34,Paid Search
+C00840,Netherlands,Rotterdam,2023-10-13,VIP,45-54,Organic
+C00841,Switzerland,Basel,2023-08-23,VIP,45-54,Organic
+C00842,Germany,Stuttgart,2023-04-03,Regular,55+,Social Media
+C00843,Germany,Frankfurt,2023-08-15,Churned,35-44,Referral
+C00844,Switzerland,Geneva,2023-07-31,VIP,45-54,Social Media
+C00845,Netherlands,Rotterdam,2023-07-12,VIP,35-44,Social Media
+C00846,Belgium,Antwerp,2023-07-23,New,18-24,Social Media
+C00847,Germany,Frankfurt,2023-03-11,Churned,35-44,Organic
+C00848,Austria,Vienna,2023-04-20,Churned,18-24,Social Media
+C00849,Germany,Berlin,2023-01-20,Regular,25-34,Paid Search
+C00850,Austria,Graz,2023-10-26,New,35-44,Social Media
+C00851,Germany,Frankfurt,2023-07-24,Regular,25-34,Organic
+C00852,Switzerland,Geneva,2023-03-30,Regular,55+,Organic
+C00853,Austria,Vienna,2023-10-23,Regular,18-24,Social Media
+C00854,Switzerland,Geneva,2023-08-02,Churned,18-24,Paid Search
+C00855,Germany,Cologne,2023-07-15,New,55+,Organic
+C00856,Switzerland,Basel,2023-10-17,New,55+,Paid Search
+C00857,Germany,Berlin,2023-07-21,Churned,55+,Referral
+C00858,Germany,Hamburg,2023-08-10,Regular,45-54,Paid Search
+C00859,Germany,Munich,2023-02-12,Regular,18-24,Referral
+C00860,France,Lyon,2023-02-13,Regular,45-54,Paid Search
+C00861,Germany,Bremen,2023-10-14,New,45-54,Referral
+C00862,Netherlands,Rotterdam,2023-05-05,New,45-54,Social Media
+C00863,Germany,Berlin,2023-07-31,Regular,35-44,Paid Search
+C00864,Switzerland,Geneva,2023-01-13,VIP,25-34,Social Media
+C00865,Belgium,Ghent,2023-03-16,Regular,25-34,Paid Search
+C00866,Switzerland,Zurich,2023-02-13,New,18-24,Paid Search
+C00867,Germany,Stuttgart,2023-05-28,New,18-24,Social Media
+C00868,Belgium,Antwerp,2023-01-12,Regular,55+,Paid Search
+C00869,Netherlands,Utrecht,2023-10-08,Regular,25-34,Organic
+C00870,France,Marseille,2023-09-27,New,25-34,Organic
+C00871,Austria,Vienna,2023-05-19,New,18-24,Organic
+C00872,France,Marseille,2023-05-19,Regular,35-44,Organic
+C00873,Germany,Munich,2023-07-17,New,45-54,Referral
+C00874,Germany,Munich,2023-09-06,Churned,55+,Organic
+C00875,Germany,Hamburg,2023-09-14,Churned,55+,Organic
+C00876,Germany,Hamburg,2023-09-29,Regular,45-54,Email
+C00877,Germany,Berlin,2023-06-27,Regular,35-44,Social Media
+C00878,Netherlands,Utrecht,2023-02-01,Regular,45-54,Organic
+C00879,Austria,Vienna,2023-03-19,Regular,45-54,Paid Search
+C00880,Germany,Cologne,2023-07-15,Regular,55+,Paid Search
+C00881,France,Paris,2023-10-21,New,35-44,Referral
+C00882,Switzerland,Geneva,2023-10-05,New,25-34,Referral
+C00883,Netherlands,Rotterdam,2023-06-08,Regular,55+,Paid Search
+C00884,France,Paris,2023-10-17,Churned,35-44,Organic
+C00885,Germany,Hamburg,2023-06-12,VIP,25-34,Organic
+C00886,Switzerland,Geneva,2023-07-30,Regular,35-44,Paid Search
+C00887,Netherlands,Amsterdam,2023-03-09,New,55+,Referral
+C00888,Austria,Salzburg,2023-10-18,Regular,55+,Paid Search
+C00889,Netherlands,Amsterdam,2023-07-03,New,45-54,Paid Search
+C00890,Belgium,Ghent,2023-07-11,New,45-54,Email
+C00891,Belgium,Brussels,2023-03-25,New,18-24,Email
+C00892,Germany,Munich,2023-07-31,New,25-34,Paid Search
+C00893,Germany,Hamburg,2023-08-13,Churned,45-54,Social Media
+C00894,Belgium,Brussels,2023-08-07,Regular,18-24,Referral
+C00895,France,Marseille,2023-06-10,Regular,55+,Referral
+C00896,Germany,Frankfurt,2023-02-25,Regular,18-24,Paid Search
+C00897,France,Marseille,2023-01-21,Regular,55+,Organic
+C00898,Netherlands,Utrecht,2023-08-14,Regular,35-44,Social Media
+C00899,Belgium,Brussels,2023-08-05,Regular,18-24,Referral
+C00900,Germany,Bremen,2023-08-20,New,55+,Organic
+C00901,Germany,Stuttgart,2023-10-27,Churned,55+,Paid Search
+C00902,France,Lyon,2023-06-15,Regular,25-34,Email
+C00903,Netherlands,Eindhoven,2023-02-16,Regular,25-34,Organic
+C00904,Germany,Berlin,2023-08-19,Regular,18-24,Referral
+C00905,France,Marseille,2023-09-19,Regular,25-34,Email
+C00906,France,Paris,2023-03-29,Churned,55+,Paid Search
+C00907,Germany,Stuttgart,2023-03-16,New,18-24,Email
+C00908,Austria,Graz,2023-08-17,Regular,25-34,Organic
+C00909,Germany,Hamburg,2023-01-02,Regular,35-44,Organic
+C00910,Belgium,Antwerp,2023-09-13,Regular,18-24,Referral
+C00911,Belgium,Brussels,2023-04-22,Regular,45-54,Email
+C00912,France,Lyon,2023-02-10,Regular,18-24,Paid Search
+C00913,Austria,Salzburg,2023-10-13,VIP,25-34,Organic
+C00914,Germany,Hamburg,2023-01-29,Regular,18-24,Paid Search
+C00915,Germany,Cologne,2023-10-23,VIP,35-44,Social Media
+C00916,Germany,Berlin,2023-02-25,Regular,25-34,Paid Search
+C00917,Austria,Salzburg,2023-10-21,VIP,25-34,Email
+C00918,Switzerland,Zurich,2023-02-17,VIP,35-44,Social Media
+C00919,France,Paris,2023-08-07,VIP,18-24,Social Media
+C00920,Belgium,Brussels,2023-03-04,Regular,35-44,Social Media
+C00921,France,Marseille,2023-04-18,Regular,55+,Organic
+C00922,Germany,Frankfurt,2023-09-28,Churned,45-54,Referral
+C00923,Austria,Graz,2023-06-12,Regular,55+,Referral
+C00924,Switzerland,Zurich,2023-10-16,Regular,45-54,Email
+C00925,Germany,Frankfurt,2023-04-30,VIP,25-34,Organic
+C00926,Germany,Berlin,2023-08-27,Regular,18-24,Paid Search
+C00927,France,Lyon,2023-01-24,Regular,55+,Paid Search
+C00928,Germany,Cologne,2023-04-14,Regular,35-44,Organic
+C00929,Austria,Graz,2023-09-17,Regular,18-24,Organic
+C00930,Switzerland,Geneva,2023-07-22,VIP,55+,Organic
+C00931,Germany,Hamburg,2023-06-19,VIP,45-54,Email
+C00932,Germany,Cologne,2023-03-11,Regular,45-54,Referral
+C00933,Switzerland,Geneva,2023-07-31,Churned,18-24,Referral
+C00934,Austria,Salzburg,2023-06-11,Regular,18-24,Paid Search
+C00935,Switzerland,Geneva,2023-02-03,Churned,35-44,Organic
+C00936,Switzerland,Geneva,2023-10-01,VIP,55+,Referral
+C00937,France,Paris,2023-03-01,Churned,35-44,Social Media
+C00938,Germany,Munich,2023-07-31,New,25-34,Social Media
+C00939,Belgium,Antwerp,2023-04-21,Regular,25-34,Organic
+C00940,Switzerland,Zurich,2023-04-14,Churned,45-54,Referral
+C00941,Germany,Stuttgart,2023-09-05,Churned,25-34,Paid Search
+C00942,Switzerland,Geneva,2023-09-26,Regular,35-44,Paid Search
+C00943,Germany,Stuttgart,2023-09-22,Regular,25-34,Paid Search
+C00944,Germany,Bremen,2023-07-18,VIP,55+,Organic
+C00945,Germany,Munich,2023-01-23,Regular,55+,Organic
+C00946,Switzerland,Geneva,2023-01-24,New,35-44,Organic
+C00947,Austria,Salzburg,2023-04-18,Regular,25-34,Social Media
+C00948,Austria,Salzburg,2023-06-13,VIP,18-24,Social Media
+C00949,Germany,Hamburg,2023-05-21,New,55+,Referral
+C00950,Germany,Hamburg,2023-10-05,Regular,35-44,Social Media
+C00951,Germany,Cologne,2023-05-26,Regular,25-34,Organic
+C00952,Austria,Salzburg,2023-06-23,Regular,18-24,Paid Search
+C00953,Germany,Bremen,2023-01-26,New,18-24,Organic
+C00954,France,Lyon,2023-04-02,VIP,55+,Email
+C00955,Switzerland,Geneva,2023-06-20,VIP,55+,Organic
+C00956,Belgium,Ghent,2023-03-09,New,45-54,Organic
+C00957,Belgium,Antwerp,2023-08-27,Regular,25-34,Paid Search
+C00958,Austria,Graz,2023-07-20,New,35-44,Social Media
+C00959,Belgium,Antwerp,2023-01-16,New,18-24,Social Media
+C00960,Belgium,Antwerp,2023-03-29,Regular,35-44,Referral
+C00961,Germany,Frankfurt,2023-02-22,Regular,18-24,Social Media
+C00962,Germany,Stuttgart,2023-06-04,Regular,45-54,Referral
+C00963,France,Paris,2023-05-05,Regular,45-54,Email
+C00964,Germany,Munich,2023-04-17,VIP,55+,Email
+C00965,France,Marseille,2023-06-25,Regular,25-34,Paid Search
+C00966,Germany,Cologne,2023-10-21,VIP,18-24,Referral
+C00967,Belgium,Antwerp,2023-10-12,New,45-54,Paid Search
+C00968,Austria,Graz,2023-02-05,Regular,55+,Email
+C00969,Switzerland,Geneva,2023-02-01,New,25-34,Referral
+C00970,Germany,Stuttgart,2023-03-17,Regular,45-54,Referral
+C00971,Austria,Graz,2023-10-23,Regular,25-34,Social Media
+C00972,Austria,Salzburg,2023-06-05,Churned,45-54,Social Media
+C00973,Germany,Frankfurt,2023-01-05,Regular,55+,Email
+C00974,Germany,Stuttgart,2023-05-31,New,55+,Organic
+C00975,Germany,Cologne,2023-10-14,VIP,35-44,Organic
+C00976,Austria,Vienna,2023-05-01,Regular,55+,Email
+C00977,Switzerland,Basel,2023-07-15,Regular,45-54,Referral
+C00978,Netherlands,Rotterdam,2023-09-01,New,55+,Email
+C00979,Switzerland,Geneva,2023-03-20,Regular,25-34,Paid Search
+C00980,Germany,Berlin,2023-01-09,New,45-54,Email
+C00981,Germany,Berlin,2023-03-12,Regular,45-54,Email
+C00982,France,Marseille,2023-04-03,Regular,45-54,Referral
+C00983,Belgium,Antwerp,2023-07-01,New,45-54,Referral
+C00984,Germany,Frankfurt,2023-09-13,VIP,25-34,Referral
+C00985,Austria,Graz,2023-10-07,Regular,18-24,Organic
+C00986,Belgium,Ghent,2023-07-08,New,45-54,Organic
+C00987,Germany,Cologne,2023-09-27,Churned,35-44,Email
+C00988,Germany,Frankfurt,2023-02-15,New,18-24,Referral
+C00989,Austria,Salzburg,2023-01-28,Churned,55+,Organic
+C00990,Belgium,Antwerp,2023-09-20,Churned,55+,Social Media
+C00991,France,Lyon,2023-05-31,Regular,18-24,Referral
+C00992,Austria,Salzburg,2023-10-16,Regular,45-54,Referral
+C00993,Germany,Frankfurt,2023-01-27,Regular,35-44,Referral
+C00994,Germany,Munich,2023-09-06,New,55+,Organic
+C00995,Austria,Graz,2023-03-09,Regular,35-44,Social Media
+C00996,Germany,Cologne,2023-02-27,Regular,55+,Paid Search
+C00997,Belgium,Antwerp,2023-03-31,Regular,25-34,Email
+C00998,Germany,Stuttgart,2023-09-28,Churned,35-44,Organic
+C00999,Germany,Frankfurt,2023-03-20,VIP,45-54,Email
+C01000,Netherlands,Eindhoven,2023-03-27,New,35-44,Organic
+C01001,Austria,Vienna,2023-01-27,New,45-54,Email
+C01002,Austria,Graz,2023-09-30,New,45-54,Email
+C01003,Austria,Vienna,2023-09-29,Churned,18-24,Social Media
+C01004,Belgium,Antwerp,2023-06-11,Churned,18-24,Organic
+C01005,Switzerland,Geneva,2023-05-20,Regular,35-44,Organic
+C01006,Austria,Salzburg,2023-10-27,Regular,25-34,Referral
+C01007,Netherlands,Utrecht,2023-04-03,Regular,18-24,Organic
+C01008,Germany,Berlin,2023-07-30,New,18-24,Email
+C01009,Switzerland,Zurich,2023-05-26,Regular,18-24,Organic
+C01010,Germany,Berlin,2023-04-22,Churned,18-24,Organic
+C01011,Germany,Stuttgart,2023-03-08,Regular,55+,Paid Search
+C01012,Germany,Cologne,2023-04-05,Regular,45-54,Organic
+C01013,Belgium,Antwerp,2023-08-07,Regular,35-44,Social Media
+C01014,Germany,Stuttgart,2023-02-07,Regular,18-24,Email
+C01015,France,Lyon,2023-01-31,Regular,35-44,Paid Search
+C01016,Belgium,Brussels,2023-09-09,Churned,25-34,Referral
+C01017,France,Paris,2023-09-09,New,55+,Email
+C01018,Netherlands,Amsterdam,2023-08-15,VIP,18-24,Organic
+C01019,Germany,Berlin,2023-10-20,VIP,45-54,Organic
+C01020,Belgium,Brussels,2023-01-01,Churned,45-54,Social Media
+C01021,Germany,Cologne,2023-06-18,Churned,55+,Organic
+C01022,Belgium,Antwerp,2023-08-12,Regular,18-24,Referral
+C01023,Netherlands,Amsterdam,2023-07-16,Churned,45-54,Organic
+C01024,Switzerland,Geneva,2023-06-05,Regular,18-24,Social Media
+C01025,Switzerland,Zurich,2023-08-24,VIP,35-44,Paid Search
+C01026,Germany,Frankfurt,2023-01-21,Churned,25-34,Social Media
+C01027,France,Paris,2023-07-03,Regular,45-54,Paid Search
+C01028,Germany,Berlin,2023-04-09,New,55+,Paid Search
+C01029,Belgium,Antwerp,2023-02-02,VIP,35-44,Email
+C01030,Belgium,Brussels,2023-01-19,Regular,35-44,Organic
+C01031,France,Paris,2023-04-19,VIP,55+,Email
+C01032,Germany,Cologne,2023-10-24,New,18-24,Organic
+C01033,Germany,Bremen,2023-01-10,Regular,55+,Organic
+C01034,Netherlands,Rotterdam,2023-01-08,New,18-24,Social Media
+C01035,Germany,Bremen,2023-03-29,VIP,18-24,Organic
+C01036,Germany,Bremen,2023-04-23,New,25-34,Email
+C01037,Switzerland,Basel,2023-07-25,Regular,55+,Referral
+C01038,Germany,Munich,2023-04-20,VIP,55+,Paid Search
+C01039,Switzerland,Zurich,2023-03-03,Regular,45-54,Paid Search
+C01040,Switzerland,Basel,2023-03-26,Regular,55+,Organic
+C01041,Germany,Berlin,2023-07-12,VIP,18-24,Email
+C01042,Germany,Berlin,2023-01-04,New,18-24,Referral
+C01043,Austria,Graz,2023-09-01,Regular,25-34,Paid Search
+C01044,Austria,Salzburg,2023-08-19,Regular,25-34,Referral
+C01045,Germany,Frankfurt,2023-04-03,VIP,55+,Organic
+C01046,Austria,Graz,2023-08-03,New,25-34,Paid Search
+C01047,Germany,Frankfurt,2023-02-18,Regular,55+,Referral
+C01048,Netherlands,Eindhoven,2023-04-17,Regular,25-34,Organic
+C01049,Germany,Cologne,2023-08-31,Regular,25-34,Organic
+C01050,Germany,Cologne,2023-07-06,Regular,45-54,Social Media
+C01051,Switzerland,Basel,2023-08-21,New,18-24,Referral
+C01052,Germany,Hamburg,2023-01-15,Regular,18-24,Organic
+C01053,Netherlands,Eindhoven,2023-10-24,Regular,25-34,Social Media
+C01054,Netherlands,Amsterdam,2023-06-16,New,25-34,Email
+C01055,Netherlands,Eindhoven,2023-04-23,New,55+,Email
+C01056,Germany,Bremen,2023-03-16,New,55+,Email
+C01057,Germany,Bremen,2023-07-11,New,25-34,Social Media
+C01058,Austria,Vienna,2023-06-21,New,55+,Organic
+C01059,Austria,Vienna,2023-02-26,Churned,45-54,Email
+C01060,Germany,Stuttgart,2023-06-25,New,35-44,Referral
+C01061,Germany,Stuttgart,2023-03-29,Regular,55+,Paid Search
+C01062,Germany,Bremen,2023-09-25,Regular,25-34,Referral
+C01063,Belgium,Antwerp,2023-05-23,New,45-54,Paid Search
+C01064,Netherlands,Utrecht,2023-08-11,Regular,55+,Paid Search
+C01065,Germany,Bremen,2023-01-23,New,45-54,Referral
+C01066,Germany,Bremen,2023-09-29,Regular,18-24,Email
+C01067,Belgium,Brussels,2023-02-12,Regular,18-24,Email
+C01068,Netherlands,Rotterdam,2023-07-03,Regular,18-24,Organic
+C01069,Belgium,Ghent,2023-06-06,New,45-54,Referral
+C01070,Germany,Bremen,2023-08-26,VIP,45-54,Paid Search
+C01071,Switzerland,Basel,2023-08-26,VIP,18-24,Organic
+C01072,France,Marseille,2023-06-20,Regular,35-44,Email
+C01073,Austria,Salzburg,2023-10-05,Regular,25-34,Organic
+C01074,Switzerland,Basel,2023-01-29,Regular,35-44,Organic
+C01075,Germany,Bremen,2023-07-07,Regular,18-24,Social Media
+C01076,Switzerland,Zurich,2023-10-14,VIP,55+,Paid Search
+C01077,Germany,Munich,2023-05-03,Regular,45-54,Referral
+C01078,Netherlands,Rotterdam,2023-06-14,Regular,35-44,Referral
+C01079,France,Lyon,2023-01-28,New,35-44,Email
+C01080,Belgium,Ghent,2023-09-27,VIP,45-54,Referral
+C01081,Austria,Graz,2023-07-08,VIP,18-24,Paid Search
+C01082,Belgium,Brussels,2023-02-11,Regular,25-34,Social Media
+C01083,Germany,Berlin,2023-03-26,Regular,25-34,Email
+C01084,Germany,Stuttgart,2023-04-15,Regular,18-24,Social Media
+C01085,France,Marseille,2023-10-05,Churned,45-54,Social Media
+C01086,France,Lyon,2023-01-11,Regular,18-24,Organic
+C01087,Netherlands,Utrecht,2023-07-30,Regular,35-44,Email
+C01088,Belgium,Antwerp,2023-06-05,Regular,35-44,Paid Search
+C01089,Austria,Vienna,2023-09-05,Regular,35-44,Organic
+C01090,Germany,Munich,2023-05-26,Regular,25-34,Referral
+C01091,Germany,Cologne,2023-10-02,Regular,25-34,Paid Search
+C01092,Germany,Hamburg,2023-03-01,New,35-44,Referral
+C01093,Germany,Bremen,2023-05-14,Regular,25-34,Referral
+C01094,Germany,Cologne,2023-06-12,Churned,25-34,Social Media
+C01095,Belgium,Ghent,2023-03-25,Regular,18-24,Organic
+C01096,France,Lyon,2023-03-16,Churned,35-44,Paid Search
+C01097,Germany,Cologne,2023-10-07,Churned,35-44,Social Media
+C01098,Belgium,Antwerp,2023-10-21,Regular,55+,Email
+C01099,Switzerland,Basel,2023-02-27,VIP,18-24,Paid Search
+C01100,Germany,Munich,2023-01-13,Regular,25-34,Email
+C01101,Switzerland,Zurich,2023-06-17,New,25-34,Referral
+C01102,Netherlands,Utrecht,2023-04-11,New,55+,Email
+C01103,Germany,Frankfurt,2023-07-21,New,35-44,Referral
+C01104,Germany,Cologne,2023-07-04,Regular,45-54,Social Media
+C01105,France,Lyon,2023-01-07,Regular,35-44,Social Media
+C01106,Belgium,Ghent,2023-02-14,New,45-54,Email
+C01107,Belgium,Antwerp,2023-03-25,VIP,45-54,Email
+C01108,Germany,Stuttgart,2023-10-28,Regular,25-34,Paid Search
+C01109,Austria,Graz,2023-09-26,Churned,18-24,Referral
+C01110,France,Paris,2023-01-04,Regular,35-44,Email
+C01111,Germany,Frankfurt,2023-08-25,VIP,25-34,Paid Search
+C01112,Germany,Stuttgart,2023-07-15,Regular,45-54,Organic
+C01113,Austria,Salzburg,2023-06-05,Regular,45-54,Paid Search
+C01114,Germany,Stuttgart,2023-01-02,New,35-44,Email
+C01115,Germany,Cologne,2023-05-28,Regular,45-54,Paid Search
+C01116,Germany,Berlin,2023-05-22,Regular,18-24,Referral
+C01117,Switzerland,Basel,2023-09-04,Regular,35-44,Email
+C01118,Germany,Munich,2023-09-20,VIP,18-24,Social Media
+C01119,Germany,Frankfurt,2023-01-30,New,45-54,Paid Search
+C01120,Switzerland,Zurich,2023-01-28,Regular,45-54,Social Media
+C01121,Germany,Munich,2023-05-30,Regular,18-24,Referral
+C01122,Netherlands,Rotterdam,2023-02-18,Regular,25-34,Referral
+C01123,Switzerland,Geneva,2023-06-04,Regular,35-44,Organic
+C01124,Switzerland,Zurich,2023-01-07,New,35-44,Social Media
+C01125,Belgium,Antwerp,2023-06-24,Churned,25-34,Organic
+C01126,Netherlands,Rotterdam,2023-09-15,New,25-34,Referral
+C01127,Germany,Bremen,2023-08-24,Churned,18-24,Paid Search
+C01128,Germany,Bremen,2023-06-28,Regular,35-44,Paid Search
+C01129,Belgium,Ghent,2023-09-25,VIP,35-44,Paid Search
+C01130,Austria,Vienna,2023-03-02,New,25-34,Paid Search
+C01131,Austria,Vienna,2023-04-18,New,18-24,Email
+C01132,Germany,Berlin,2023-01-10,VIP,45-54,Organic
+C01133,Netherlands,Amsterdam,2023-01-17,VIP,55+,Referral
+C01134,Germany,Bremen,2023-03-02,Churned,18-24,Organic
+C01135,Austria,Salzburg,2023-01-06,VIP,18-24,Referral
+C01136,Netherlands,Rotterdam,2023-04-05,Regular,18-24,Organic
+C01137,Germany,Stuttgart,2023-05-23,Churned,35-44,Social Media
+C01138,Germany,Stuttgart,2023-09-14,VIP,55+,Paid Search
+C01139,Germany,Berlin,2023-10-24,VIP,55+,Paid Search
+C01140,Netherlands,Utrecht,2023-03-29,Churned,55+,Organic
+C01141,Germany,Hamburg,2023-09-16,Churned,45-54,Social Media
+C01142,Germany,Bremen,2023-02-24,New,35-44,Email
+C01143,France,Paris,2023-09-21,New,18-24,Social Media
+C01144,Germany,Bremen,2023-02-26,Regular,45-54,Social Media
+C01145,Austria,Salzburg,2023-01-21,New,45-54,Organic
+C01146,France,Lyon,2023-08-22,Regular,35-44,Email
+C01147,Netherlands,Eindhoven,2023-05-29,Churned,45-54,Paid Search
+C01148,Germany,Stuttgart,2023-09-01,Churned,35-44,Paid Search
+C01149,Germany,Cologne,2023-09-09,Regular,45-54,Email
+C01150,Germany,Berlin,2023-03-15,Regular,55+,Organic
+C01151,Germany,Berlin,2023-07-06,Churned,35-44,Paid Search
+C01152,France,Paris,2023-04-30,VIP,45-54,Social Media
+C01153,Austria,Salzburg,2023-07-24,Regular,55+,Email
+C01154,Belgium,Ghent,2023-05-23,New,45-54,Organic
+C01155,Germany,Munich,2023-09-08,Regular,25-34,Organic
+C01156,Germany,Cologne,2023-01-28,VIP,45-54,Organic
+C01157,Germany,Bremen,2023-06-17,New,55+,Referral
+C01158,Germany,Stuttgart,2023-02-09,Regular,55+,Email
+C01159,Belgium,Brussels,2023-05-31,Regular,45-54,Referral
+C01160,Austria,Salzburg,2023-06-25,VIP,55+,Referral
+C01161,Germany,Stuttgart,2023-01-17,Churned,18-24,Email
+C01162,Belgium,Antwerp,2023-07-12,Regular,18-24,Organic
+C01163,Germany,Frankfurt,2023-06-05,Churned,25-34,Email
+C01164,France,Paris,2023-06-09,VIP,45-54,Organic
+C01165,Belgium,Ghent,2023-10-11,Regular,55+,Email
+C01166,Belgium,Ghent,2023-03-22,Regular,45-54,Social Media
+C01167,Belgium,Ghent,2023-07-13,Regular,35-44,Social Media
+C01168,Switzerland,Zurich,2023-01-15,Regular,25-34,Social Media
+C01169,Switzerland,Basel,2023-10-26,New,35-44,Email
+C01170,Germany,Bremen,2023-06-26,Churned,45-54,Social Media
+C01171,Germany,Cologne,2023-05-06,New,35-44,Referral
+C01172,Germany,Cologne,2023-02-03,Churned,18-24,Social Media
+C01173,Germany,Berlin,2023-10-03,Regular,45-54,Email
+C01174,France,Lyon,2023-01-11,Regular,55+,Organic
+C01175,Switzerland,Geneva,2023-10-20,Regular,55+,Organic
+C01176,Belgium,Brussels,2023-04-16,Regular,55+,Social Media
+C01177,Germany,Frankfurt,2023-06-03,Regular,45-54,Paid Search
+C01178,Belgium,Ghent,2023-02-08,VIP,55+,Paid Search
+C01179,Austria,Graz,2023-01-25,Regular,55+,Email
+C01180,Netherlands,Amsterdam,2023-10-24,New,35-44,Social Media
+C01181,Germany,Frankfurt,2023-09-29,Regular,25-34,Social Media
+C01182,Germany,Cologne,2023-06-04,Regular,35-44,Email
+C01183,Switzerland,Zurich,2023-08-01,Regular,55+,Referral
+C01184,Belgium,Ghent,2023-10-08,New,18-24,Referral
+C01185,Germany,Frankfurt,2023-09-13,New,45-54,Social Media
+C01186,France,Marseille,2023-01-31,Regular,35-44,Email
+C01187,Germany,Hamburg,2023-03-19,VIP,35-44,Email
+C01188,France,Lyon,2023-02-02,Regular,45-54,Social Media
+C01189,Austria,Salzburg,2023-03-24,Regular,55+,Paid Search
+C01190,France,Paris,2023-02-28,New,18-24,Paid Search
+C01191,Austria,Graz,2023-09-06,Regular,45-54,Email
+C01192,Germany,Hamburg,2023-03-23,Regular,18-24,Social Media
+C01193,Austria,Salzburg,2023-10-09,New,18-24,Email
+C01194,Germany,Berlin,2023-02-12,Regular,35-44,Organic
+C01195,France,Lyon,2023-02-16,Regular,25-34,Paid Search
+C01196,Germany,Frankfurt,2023-09-14,Churned,55+,Referral
+C01197,Austria,Graz,2023-02-16,New,18-24,Social Media
+C01198,Switzerland,Basel,2023-07-19,VIP,25-34,Email
+C01199,Netherlands,Rotterdam,2023-02-24,New,35-44,Email
+C01200,France,Lyon,2023-01-29,Regular,35-44,Organic
+C01201,Switzerland,Basel,2023-08-05,Regular,25-34,Social Media
+C01202,Germany,Munich,2023-09-01,VIP,35-44,Organic
+C01203,Germany,Stuttgart,2023-01-28,Regular,25-34,Social Media
+C01204,France,Lyon,2023-07-05,Churned,18-24,Referral
+C01205,Netherlands,Eindhoven,2023-07-18,New,45-54,Social Media
+C01206,Austria,Vienna,2023-05-01,Regular,25-34,Email
+C01207,Switzerland,Basel,2023-07-28,VIP,35-44,Organic
+C01208,Belgium,Antwerp,2023-07-31,Churned,35-44,Email
+C01209,Germany,Stuttgart,2023-03-24,Regular,55+,Organic
+C01210,Switzerland,Geneva,2023-10-08,VIP,45-54,Organic
+C01211,Germany,Cologne,2023-04-05,Regular,25-34,Organic
+C01212,France,Paris,2023-06-06,Regular,18-24,Organic
+C01213,Germany,Hamburg,2023-09-22,VIP,25-34,Referral
+C01214,France,Lyon,2023-08-20,Regular,25-34,Social Media
+C01215,Germany,Cologne,2023-06-17,VIP,25-34,Organic
+C01216,France,Lyon,2023-04-04,Regular,45-54,Referral
+C01217,Netherlands,Amsterdam,2023-01-12,Churned,55+,Paid Search
+C01218,Germany,Bremen,2023-04-12,Regular,25-34,Organic
+C01219,France,Marseille,2023-08-08,Regular,25-34,Organic
+C01220,Switzerland,Zurich,2023-10-18,New,55+,Email
+C01221,Belgium,Ghent,2023-09-11,New,25-34,Paid Search
+C01222,Austria,Graz,2023-09-11,Regular,45-54,Paid Search
+C01223,Netherlands,Utrecht,2023-04-07,Regular,45-54,Paid Search
+C01224,Germany,Munich,2023-05-15,New,45-54,Paid Search
+C01225,Switzerland,Basel,2023-08-23,New,45-54,Paid Search
+C01226,Switzerland,Basel,2023-07-23,Regular,45-54,Email
+C01227,Austria,Vienna,2023-02-18,Regular,18-24,Social Media
+C01228,Netherlands,Eindhoven,2023-07-01,Churned,55+,Organic
+C01229,Germany,Munich,2023-09-16,Regular,35-44,Email
+C01230,Switzerland,Zurich,2023-10-14,New,25-34,Social Media
+C01231,Germany,Frankfurt,2023-09-10,Churned,45-54,Paid Search
+C01232,Germany,Munich,2023-09-29,Regular,35-44,Organic
+C01233,Switzerland,Zurich,2023-03-07,Regular,35-44,Social Media
+C01234,France,Lyon,2023-05-15,Regular,35-44,Referral
+C01235,Switzerland,Geneva,2023-03-26,Regular,45-54,Paid Search
+C01236,Belgium,Brussels,2023-04-07,New,25-34,Paid Search
+C01237,Germany,Bremen,2023-05-14,New,45-54,Email
+C01238,Germany,Bremen,2023-01-21,Regular,55+,Email
+C01239,Belgium,Antwerp,2023-02-27,VIP,25-34,Organic
+C01240,Switzerland,Zurich,2023-04-15,Churned,25-34,Paid Search
+C01241,Austria,Salzburg,2023-10-27,New,18-24,Referral
+C01242,Germany,Bremen,2023-02-09,New,45-54,Organic
+C01243,Switzerland,Zurich,2023-05-26,Regular,18-24,Email
+C01244,Switzerland,Basel,2023-02-24,VIP,25-34,Organic
+C01245,Germany,Bremen,2023-09-03,Regular,35-44,Referral
+C01246,Germany,Munich,2023-01-23,Regular,45-54,Social Media
+C01247,Germany,Hamburg,2023-01-25,VIP,35-44,Social Media
+C01248,Germany,Cologne,2023-02-06,Regular,55+,Email
+C01249,Germany,Bremen,2023-05-11,New,45-54,Organic
+C01250,Germany,Stuttgart,2023-04-17,New,45-54,Social Media
+C01251,Germany,Berlin,2023-06-02,Regular,45-54,Social Media
+C01252,Germany,Munich,2023-02-19,VIP,55+,Paid Search
+C01253,Belgium,Antwerp,2023-07-18,Regular,55+,Referral
+C01254,France,Paris,2023-08-05,VIP,55+,Paid Search
+C01255,France,Marseille,2023-08-07,New,55+,Social Media
+C01256,Belgium,Ghent,2023-04-25,Regular,25-34,Email
+C01257,Germany,Munich,2023-08-28,Regular,45-54,Social Media
+C01258,Germany,Hamburg,2023-06-03,VIP,55+,Email
+C01259,Austria,Salzburg,2023-01-25,Regular,18-24,Referral
+C01260,Germany,Frankfurt,2023-08-06,Regular,45-54,Referral
+C01261,Austria,Graz,2023-05-11,Regular,55+,Organic
+C01262,Germany,Cologne,2023-08-25,New,25-34,Email
+C01263,Germany,Berlin,2023-08-02,Churned,35-44,Social Media
+C01264,Belgium,Ghent,2023-08-19,Regular,35-44,Social Media
+C01265,Germany,Hamburg,2023-04-05,New,55+,Social Media
+C01266,Germany,Bremen,2023-10-01,New,45-54,Organic
+C01267,Germany,Hamburg,2023-09-02,Regular,45-54,Referral
+C01268,Belgium,Antwerp,2023-07-04,Regular,45-54,Social Media
+C01269,Germany,Hamburg,2023-03-11,New,18-24,Organic
+C01270,Netherlands,Amsterdam,2023-04-18,Regular,25-34,Paid Search
+C01271,France,Marseille,2023-10-03,New,35-44,Email
+C01272,Germany,Bremen,2023-08-05,New,25-34,Paid Search
+C01273,Belgium,Antwerp,2023-08-30,New,45-54,Referral
+C01274,Netherlands,Rotterdam,2023-05-31,Regular,45-54,Organic
+C01275,Switzerland,Zurich,2023-02-22,Regular,45-54,Email
+C01276,Belgium,Ghent,2023-10-24,Regular,55+,Social Media
+C01277,Germany,Bremen,2023-07-24,Regular,55+,Referral
+C01278,Belgium,Brussels,2023-02-01,Regular,45-54,Referral
+C01279,Switzerland,Basel,2023-02-02,Regular,45-54,Email
+C01280,Germany,Bremen,2023-06-27,Regular,45-54,Organic
+C01281,Germany,Munich,2023-04-09,Regular,45-54,Paid Search
+C01282,Netherlands,Utrecht,2023-08-28,New,35-44,Email
+C01283,France,Marseille,2023-07-04,VIP,25-34,Referral
+C01284,Netherlands,Utrecht,2023-02-14,Regular,25-34,Paid Search
+C01285,Netherlands,Rotterdam,2023-09-09,New,45-54,Email
+C01286,Austria,Vienna,2023-04-18,Regular,18-24,Social Media
+C01287,Austria,Graz,2023-03-23,New,55+,Organic
+C01288,Germany,Munich,2023-08-09,New,25-34,Organic
+C01289,Netherlands,Eindhoven,2023-05-13,Churned,35-44,Organic
+C01290,Austria,Vienna,2023-09-21,Regular,18-24,Organic
+C01291,Belgium,Antwerp,2023-02-26,Churned,55+,Referral
+C01292,Germany,Stuttgart,2023-10-15,New,18-24,Paid Search
+C01293,Germany,Stuttgart,2023-04-16,Churned,25-34,Social Media
+C01294,Belgium,Ghent,2023-09-13,VIP,18-24,Paid Search
+C01295,Switzerland,Geneva,2023-03-12,New,25-34,Email
+C01296,France,Paris,2023-05-06,VIP,45-54,Social Media
+C01297,Austria,Salzburg,2023-03-29,New,35-44,Email
+C01298,Switzerland,Basel,2023-05-06,New,55+,Email
+C01299,Netherlands,Rotterdam,2023-08-08,Regular,45-54,Email
+C01300,Switzerland,Zurich,2023-08-15,New,18-24,Referral
+C01301,Germany,Berlin,2023-06-23,Regular,25-34,Email
+C01302,Germany,Bremen,2023-01-19,Regular,25-34,Referral
+C01303,Germany,Cologne,2023-09-24,Churned,45-54,Email
+C01304,Austria,Salzburg,2023-06-10,Churned,18-24,Social Media
+C01305,Germany,Cologne,2023-07-26,Regular,25-34,Referral
+C01306,Belgium,Ghent,2023-06-26,Churned,45-54,Paid Search
+C01307,Austria,Vienna,2023-01-19,Regular,45-54,Paid Search
+C01308,Austria,Vienna,2023-02-17,Regular,35-44,Referral
+C01309,Switzerland,Basel,2023-03-23,New,55+,Referral
+C01310,Austria,Vienna,2023-06-05,VIP,55+,Organic
+C01311,Germany,Stuttgart,2023-07-10,Regular,55+,Social Media
+C01312,Germany,Berlin,2023-03-05,Regular,55+,Organic
+C01313,Belgium,Antwerp,2023-05-01,VIP,55+,Referral
+C01314,Netherlands,Utrecht,2023-06-03,Regular,55+,Paid Search
+C01315,France,Marseille,2023-05-07,New,55+,Referral
+C01316,Netherlands,Utrecht,2023-08-21,New,45-54,Email
+C01317,Germany,Berlin,2023-02-01,Regular,25-34,Email
+C01318,Netherlands,Eindhoven,2023-02-09,Regular,55+,Email
+C01319,France,Lyon,2023-10-27,Regular,45-54,Email
+C01320,Belgium,Ghent,2023-08-02,VIP,25-34,Referral
+C01321,Germany,Bremen,2023-08-23,New,55+,Referral
+C01322,Germany,Cologne,2023-04-19,Regular,18-24,Paid Search
+C01323,Switzerland,Zurich,2023-07-29,New,35-44,Referral
+C01324,Austria,Vienna,2023-09-25,New,35-44,Social Media
+C01325,Switzerland,Geneva,2023-05-31,Regular,25-34,Paid Search
+C01326,France,Paris,2023-06-06,Churned,25-34,Paid Search
+C01327,Belgium,Brussels,2023-03-04,Regular,18-24,Organic
+C01328,France,Lyon,2023-10-21,Regular,45-54,Social Media
+C01329,France,Lyon,2023-03-09,VIP,55+,Email
+C01330,Belgium,Ghent,2023-08-18,New,35-44,Organic
+C01331,France,Lyon,2023-04-30,Churned,35-44,Referral
+C01332,Germany,Cologne,2023-08-15,VIP,18-24,Paid Search
+C01333,Germany,Frankfurt,2023-06-08,Regular,18-24,Referral
+C01334,Germany,Hamburg,2023-10-05,Regular,18-24,Referral
+C01335,Netherlands,Eindhoven,2023-09-15,Churned,18-24,Referral
+C01336,Germany,Berlin,2023-05-21,VIP,25-34,Referral
+C01337,Belgium,Brussels,2023-10-01,Regular,45-54,Referral
+C01338,Germany,Bremen,2023-01-12,Regular,25-34,Email
+C01339,Germany,Stuttgart,2023-09-28,Regular,35-44,Organic
+C01340,Germany,Berlin,2023-10-05,New,25-34,Paid Search
+C01341,Austria,Vienna,2023-03-20,Regular,45-54,Paid Search
+C01342,Germany,Frankfurt,2023-06-16,New,18-24,Social Media
+C01343,France,Paris,2023-06-13,New,35-44,Social Media
+C01344,France,Paris,2023-01-27,New,55+,Referral
+C01345,Netherlands,Eindhoven,2023-09-18,VIP,45-54,Organic
+C01346,Austria,Vienna,2023-06-12,Regular,45-54,Organic
+C01347,Belgium,Brussels,2023-07-28,Regular,18-24,Social Media
+C01348,Germany,Hamburg,2023-10-12,Regular,25-34,Social Media
+C01349,France,Lyon,2023-02-12,VIP,55+,Paid Search
+C01350,Germany,Munich,2023-10-04,Churned,25-34,Referral
+C01351,France,Marseille,2023-08-20,New,45-54,Referral
+C01352,Austria,Salzburg,2023-03-27,New,45-54,Social Media
+C01353,Austria,Salzburg,2023-07-14,Churned,25-34,Referral
+C01354,Austria,Vienna,2023-03-24,VIP,55+,Organic
+C01355,Austria,Vienna,2023-07-22,Regular,25-34,Referral
+C01356,Austria,Graz,2023-04-18,Regular,35-44,Social Media
+C01357,Austria,Salzburg,2023-08-20,Regular,35-44,Social Media
+C01358,Netherlands,Eindhoven,2023-06-18,New,25-34,Organic
+C01359,Belgium,Brussels,2023-01-05,Regular,45-54,Referral
+C01360,Belgium,Antwerp,2023-10-03,New,18-24,Referral
+C01361,Germany,Stuttgart,2023-08-16,Regular,35-44,Email
+C01362,Switzerland,Geneva,2023-04-01,VIP,18-24,Organic
+C01363,Belgium,Antwerp,2023-04-09,Regular,25-34,Organic
+C01364,Austria,Salzburg,2023-07-03,New,55+,Social Media
+C01365,Netherlands,Rotterdam,2023-09-10,Churned,18-24,Social Media
+C01366,Belgium,Ghent,2023-04-18,New,45-54,Organic
+C01367,Austria,Salzburg,2023-09-14,Regular,55+,Paid Search
+C01368,Germany,Berlin,2023-03-07,VIP,25-34,Social Media
+C01369,Netherlands,Utrecht,2023-04-09,VIP,18-24,Referral
+C01370,Austria,Salzburg,2023-10-14,Churned,18-24,Email
+C01371,Germany,Stuttgart,2023-06-15,Regular,45-54,Social Media
+C01372,Germany,Cologne,2023-09-23,Regular,35-44,Referral
+C01373,Germany,Cologne,2023-04-25,New,45-54,Referral
+C01374,Belgium,Antwerp,2023-01-03,Regular,35-44,Organic
+C01375,Germany,Cologne,2023-04-26,Churned,45-54,Organic
+C01376,Netherlands,Rotterdam,2023-03-26,Regular,18-24,Organic
+C01377,Germany,Bremen,2023-08-10,VIP,55+,Social Media
+C01378,Austria,Vienna,2023-02-25,Regular,35-44,Organic
+C01379,Switzerland,Basel,2023-05-02,Churned,55+,Referral
+C01380,Belgium,Brussels,2023-08-17,Regular,18-24,Organic
+C01381,Germany,Bremen,2023-06-10,Churned,18-24,Paid Search
+C01382,Germany,Stuttgart,2023-08-15,New,55+,Email
+C01383,Germany,Berlin,2023-01-29,Regular,35-44,Email
+C01384,France,Paris,2023-07-30,New,55+,Referral
+C01385,Germany,Bremen,2023-07-16,Regular,45-54,Referral
+C01386,Germany,Munich,2023-01-14,Regular,35-44,Referral
+C01387,Netherlands,Amsterdam,2023-02-22,New,18-24,Referral
+C01388,Netherlands,Rotterdam,2023-09-18,Regular,45-54,Email
+C01389,Belgium,Brussels,2023-05-05,New,18-24,Organic
+C01390,Germany,Munich,2023-10-27,Regular,35-44,Social Media
+C01391,Germany,Hamburg,2023-08-29,Regular,35-44,Social Media
+C01392,Switzerland,Zurich,2023-09-23,Regular,25-34,Organic
+C01393,Netherlands,Amsterdam,2023-08-05,Regular,25-34,Paid Search
+C01394,Germany,Munich,2023-04-07,Regular,45-54,Referral
+C01395,Switzerland,Basel,2023-10-17,Churned,55+,Social Media
+C01396,France,Lyon,2023-03-25,New,18-24,Email
+C01397,Netherlands,Amsterdam,2023-04-25,Regular,45-54,Referral
+C01398,Netherlands,Rotterdam,2023-09-04,VIP,35-44,Email
+C01399,Netherlands,Eindhoven,2023-04-05,VIP,18-24,Social Media
+C01400,Germany,Berlin,2023-07-03,New,18-24,Paid Search
+C01401,Austria,Graz,2023-04-10,Regular,35-44,Organic
+C01402,Germany,Hamburg,2023-04-12,Regular,25-34,Social Media
+C01403,Germany,Munich,2023-10-11,New,25-34,Organic
+C01404,Germany,Stuttgart,2023-05-15,Churned,18-24,Paid Search
+C01405,France,Marseille,2023-02-26,Regular,25-34,Social Media
+C01406,Belgium,Brussels,2023-07-09,VIP,25-34,Referral
+C01407,France,Marseille,2023-02-03,New,25-34,Paid Search
+C01408,Netherlands,Eindhoven,2023-07-11,Regular,45-54,Paid Search
+C01409,Germany,Stuttgart,2023-10-28,New,55+,Social Media
+C01410,Germany,Munich,2023-05-07,New,35-44,Paid Search
+C01411,Belgium,Brussels,2023-02-11,VIP,55+,Organic
+C01412,Germany,Frankfurt,2023-07-18,VIP,55+,Social Media
+C01413,Belgium,Ghent,2023-08-26,New,35-44,Referral
+C01414,Belgium,Ghent,2023-09-11,Regular,55+,Email
+C01415,Germany,Hamburg,2023-04-23,Churned,45-54,Paid Search
+C01416,France,Paris,2023-06-06,Regular,45-54,Referral
+C01417,Germany,Stuttgart,2023-07-11,Regular,18-24,Paid Search
+C01418,Germany,Munich,2023-08-16,Regular,25-34,Referral
+C01419,Germany,Bremen,2023-09-20,Regular,45-54,Email
+C01420,Belgium,Antwerp,2023-07-29,Regular,45-54,Social Media
+C01421,Austria,Graz,2023-01-13,New,25-34,Social Media
+C01422,Germany,Munich,2023-02-12,Regular,55+,Referral
+C01423,Germany,Stuttgart,2023-05-22,Churned,18-24,Organic
+C01424,Germany,Munich,2023-01-20,Regular,35-44,Paid Search
+C01425,Switzerland,Geneva,2023-06-04,VIP,35-44,Paid Search
+C01426,Germany,Stuttgart,2023-10-06,Churned,18-24,Social Media
+C01427,Austria,Graz,2023-07-26,Churned,55+,Organic
+C01428,Belgium,Ghent,2023-09-20,Churned,25-34,Email
+C01429,Netherlands,Rotterdam,2023-04-18,Regular,55+,Referral
+C01430,Belgium,Ghent,2023-08-25,Regular,18-24,Social Media
+C01431,Netherlands,Eindhoven,2023-08-02,New,45-54,Referral
+C01432,Germany,Munich,2023-03-13,Regular,25-34,Social Media
+C01433,Germany,Bremen,2023-07-01,Regular,45-54,Email
+C01434,France,Marseille,2023-10-03,Regular,55+,Organic
+C01435,Germany,Hamburg,2023-03-20,Churned,35-44,Referral
+C01436,France,Lyon,2023-04-15,Churned,18-24,Referral
+C01437,France,Paris,2023-09-01,New,55+,Email
+C01438,Austria,Vienna,2023-03-29,New,55+,Paid Search
+C01439,Germany,Stuttgart,2023-09-08,New,25-34,Organic
+C01440,France,Lyon,2023-04-16,New,55+,Organic
+C01441,Belgium,Brussels,2023-07-08,Regular,25-34,Social Media
+C01442,France,Lyon,2023-03-22,Churned,25-34,Referral
+C01443,France,Lyon,2023-02-05,Regular,25-34,Paid Search
+C01444,Netherlands,Utrecht,2023-08-10,VIP,45-54,Paid Search
+C01445,Austria,Salzburg,2023-04-14,Regular,45-54,Social Media
+C01446,Netherlands,Amsterdam,2023-03-15,Regular,45-54,Referral
+C01447,Netherlands,Utrecht,2023-10-19,Churned,45-54,Email
+C01448,Germany,Cologne,2023-02-16,Regular,45-54,Social Media
+C01449,Austria,Graz,2023-03-31,Regular,25-34,Referral
+C01450,France,Lyon,2023-07-16,Churned,25-34,Referral
+C01451,Germany,Bremen,2023-01-23,New,25-34,Social Media
+C01452,Austria,Salzburg,2023-02-04,Regular,25-34,Email
+C01453,France,Marseille,2023-03-04,Churned,18-24,Organic
+C01454,Switzerland,Geneva,2023-08-19,New,25-34,Referral
+C01455,Germany,Bremen,2023-01-14,New,45-54,Email
+C01456,Switzerland,Basel,2023-07-24,Churned,45-54,Organic
+C01457,Germany,Munich,2023-02-28,VIP,25-34,Social Media
+C01458,Belgium,Antwerp,2023-08-25,New,55+,Paid Search
+C01459,Belgium,Brussels,2023-08-30,VIP,25-34,Paid Search
+C01460,Germany,Frankfurt,2023-02-21,New,18-24,Referral
+C01461,France,Paris,2023-02-09,Regular,18-24,Social Media
+C01462,Germany,Bremen,2023-07-03,New,18-24,Referral
+C01463,Netherlands,Eindhoven,2023-01-25,VIP,55+,Organic
+C01464,France,Marseille,2023-06-07,Regular,55+,Organic
+C01465,Germany,Stuttgart,2023-07-13,VIP,25-34,Social Media
+C01466,Netherlands,Rotterdam,2023-02-16,New,18-24,Organic
+C01467,Switzerland,Zurich,2023-02-02,New,18-24,Paid Search
+C01468,Germany,Berlin,2023-08-01,Regular,35-44,Social Media
+C01469,Netherlands,Rotterdam,2023-10-05,Regular,45-54,Organic
+C01470,Netherlands,Rotterdam,2023-02-24,Regular,25-34,Organic
+C01471,France,Marseille,2023-06-11,New,25-34,Email
+C01472,Netherlands,Amsterdam,2023-05-23,Regular,35-44,Organic
+C01473,Germany,Hamburg,2023-07-30,Regular,55+,Email
+C01474,Germany,Cologne,2023-10-02,VIP,55+,Paid Search
+C01475,Austria,Vienna,2023-06-16,Churned,45-54,Paid Search
+C01476,Switzerland,Zurich,2023-06-12,Churned,45-54,Organic
+C01477,Switzerland,Zurich,2023-10-27,Regular,55+,Paid Search
+C01478,Germany,Hamburg,2023-01-11,Regular,18-24,Social Media
+C01479,Netherlands,Eindhoven,2023-05-05,Regular,18-24,Paid Search
+C01480,Switzerland,Geneva,2023-06-01,New,45-54,Paid Search
+C01481,Germany,Hamburg,2023-08-16,VIP,35-44,Paid Search
+C01482,Austria,Graz,2023-01-21,Regular,45-54,Social Media
+C01483,Germany,Hamburg,2023-06-19,Regular,25-34,Referral
+C01484,Germany,Cologne,2023-05-08,VIP,25-34,Referral
+C01485,France,Marseille,2023-06-14,New,18-24,Organic
+C01486,Belgium,Brussels,2023-04-09,New,25-34,Paid Search
+C01487,Germany,Berlin,2023-03-30,Regular,25-34,Paid Search
+C01488,Germany,Bremen,2023-08-28,Regular,25-34,Paid Search
+C01489,France,Paris,2023-05-08,Regular,55+,Email
+C01490,Netherlands,Utrecht,2023-09-04,New,35-44,Email
+C01491,France,Paris,2023-08-30,Regular,55+,Referral
+C01492,France,Paris,2023-09-04,New,45-54,Email
+C01493,Germany,Stuttgart,2023-06-03,Regular,25-34,Referral
+C01494,Germany,Munich,2023-07-14,Regular,45-54,Social Media
+C01495,France,Marseille,2023-09-04,New,25-34,Email
+C01496,Netherlands,Rotterdam,2023-04-08,New,55+,Social Media
+C01497,Belgium,Antwerp,2023-08-01,Churned,35-44,Email
+C01498,Belgium,Antwerp,2023-02-06,Regular,18-24,Organic
+C01499,France,Marseille,2023-03-25,New,45-54,Social Media
+C01500,Switzerland,Basel,2023-09-08,Regular,35-44,Organic
+C01501,France,Lyon,2023-05-07,New,18-24,Social Media
+C01502,Germany,Cologne,2023-03-17,Regular,45-54,Paid Search
+C01503,Austria,Vienna,2023-10-24,Churned,25-34,Organic
+C01504,Germany,Stuttgart,2023-02-17,Regular,45-54,Email
+C01505,Germany,Frankfurt,2023-04-07,Churned,25-34,Email
+C01506,Austria,Salzburg,2023-06-04,Regular,55+,Email
+C01507,Austria,Salzburg,2023-07-30,VIP,18-24,Organic
+C01508,Switzerland,Zurich,2023-05-18,VIP,45-54,Social Media
+C01509,Germany,Hamburg,2023-09-09,New,18-24,Email
+C01510,France,Marseille,2023-05-28,VIP,25-34,Paid Search
+C01511,Switzerland,Zurich,2023-03-10,New,25-34,Referral
+C01512,Germany,Bremen,2023-10-18,VIP,25-34,Paid Search
+C01513,Germany,Cologne,2023-04-04,VIP,25-34,Social Media
+C01514,France,Lyon,2023-02-25,Churned,25-34,Organic
+C01515,Austria,Vienna,2023-07-13,New,18-24,Social Media
+C01516,Germany,Frankfurt,2023-05-01,Regular,18-24,Organic
+C01517,Germany,Munich,2023-01-04,Regular,18-24,Organic
+C01518,Netherlands,Amsterdam,2023-07-12,Regular,35-44,Email
+C01519,Belgium,Antwerp,2023-08-08,Regular,35-44,Social Media
+C01520,Netherlands,Utrecht,2023-07-24,Regular,18-24,Social Media
+C01521,Switzerland,Zurich,2023-01-02,Regular,45-54,Paid Search
+C01522,Germany,Frankfurt,2023-03-04,Churned,35-44,Paid Search
+C01523,Switzerland,Geneva,2023-09-01,Regular,25-34,Organic
+C01524,Switzerland,Zurich,2023-07-04,Churned,35-44,Email
+C01525,Netherlands,Eindhoven,2023-07-24,VIP,18-24,Social Media
+C01526,France,Lyon,2023-02-21,VIP,35-44,Referral
+C01527,Netherlands,Rotterdam,2023-09-24,Churned,55+,Organic
+C01528,Germany,Bremen,2023-02-14,Regular,55+,Email
+C01529,Germany,Bremen,2023-03-01,Regular,55+,Paid Search
+C01530,Netherlands,Rotterdam,2023-03-29,VIP,18-24,Organic
+C01531,France,Marseille,2023-01-15,New,35-44,Email
+C01532,Austria,Vienna,2023-05-12,Regular,18-24,Paid Search
+C01533,Belgium,Brussels,2023-06-20,Churned,55+,Referral
+C01534,Germany,Cologne,2023-06-25,Regular,45-54,Referral
+C01535,France,Paris,2023-04-25,Regular,35-44,Organic
+C01536,Germany,Berlin,2023-06-24,VIP,25-34,Organic
+C01537,Switzerland,Zurich,2023-06-10,Churned,55+,Organic
+C01538,Austria,Vienna,2023-10-02,New,45-54,Email
+C01539,Switzerland,Geneva,2023-03-06,Regular,55+,Referral
+C01540,Netherlands,Amsterdam,2023-07-22,New,45-54,Social Media
+C01541,Germany,Stuttgart,2023-06-01,VIP,45-54,Email
+C01542,Germany,Frankfurt,2023-05-26,New,18-24,Referral
+C01543,Switzerland,Geneva,2023-09-15,Churned,18-24,Social Media
+C01544,Belgium,Ghent,2023-04-21,Regular,45-54,Organic
+C01545,Switzerland,Zurich,2023-04-18,VIP,25-34,Organic
+C01546,Germany,Stuttgart,2023-09-07,VIP,35-44,Paid Search
+C01547,Germany,Frankfurt,2023-07-20,Regular,45-54,Social Media
+C01548,France,Lyon,2023-02-06,Regular,35-44,Social Media
+C01549,Netherlands,Eindhoven,2023-02-19,New,55+,Organic
+C01550,Austria,Graz,2023-03-25,Regular,45-54,Email
+C01551,Austria,Vienna,2023-04-18,New,25-34,Organic
+C01552,Switzerland,Basel,2023-10-22,New,25-34,Email
+C01553,France,Marseille,2023-03-28,Churned,18-24,Social Media
+C01554,Belgium,Brussels,2023-01-27,New,55+,Social Media
+C01555,France,Paris,2023-07-26,New,18-24,Paid Search
+C01556,France,Lyon,2023-06-04,Regular,25-34,Email
+C01557,Germany,Stuttgart,2023-08-26,Churned,45-54,Social Media
+C01558,Belgium,Antwerp,2023-01-06,New,18-24,Organic
+C01559,Belgium,Ghent,2023-09-18,New,55+,Referral
+C01560,Belgium,Antwerp,2023-02-18,VIP,25-34,Email
+C01561,Belgium,Ghent,2023-08-11,Regular,25-34,Organic
+C01562,Switzerland,Zurich,2023-10-03,New,18-24,Email
+C01563,Belgium,Brussels,2023-09-23,VIP,55+,Organic
+C01564,Netherlands,Amsterdam,2023-04-03,Churned,25-34,Organic
+C01565,Belgium,Antwerp,2023-03-04,New,55+,Paid Search
+C01566,Germany,Berlin,2023-10-15,Regular,18-24,Organic
+C01567,Germany,Frankfurt,2023-06-02,Regular,55+,Paid Search
+C01568,France,Marseille,2023-01-01,New,18-24,Referral
+C01569,Austria,Salzburg,2023-10-01,Regular,55+,Email
+C01570,Switzerland,Basel,2023-06-30,Regular,55+,Paid Search
+C01571,Germany,Cologne,2023-01-23,New,25-34,Paid Search
+C01572,Austria,Vienna,2023-03-10,Regular,25-34,Referral
+C01573,Switzerland,Geneva,2023-03-07,VIP,45-54,Organic
+C01574,Austria,Graz,2023-07-15,Regular,25-34,Email
+C01575,Belgium,Brussels,2023-05-11,Regular,25-34,Referral
+C01576,Netherlands,Amsterdam,2023-05-18,Churned,25-34,Social Media
+C01577,Germany,Bremen,2023-03-20,Regular,45-54,Email
+C01578,Germany,Frankfurt,2023-05-07,New,18-24,Referral
+C01579,Germany,Cologne,2023-10-08,Regular,35-44,Organic
+C01580,Switzerland,Geneva,2023-05-20,New,25-34,Social Media
+C01581,Germany,Berlin,2023-07-13,Churned,25-34,Email
+C01582,Germany,Stuttgart,2023-03-05,New,35-44,Referral
+C01583,Belgium,Brussels,2023-09-28,Regular,55+,Social Media
+C01584,Austria,Salzburg,2023-02-20,Churned,25-34,Social Media
+C01585,France,Paris,2023-06-26,VIP,55+,Referral
+C01586,France,Lyon,2023-03-07,Regular,55+,Paid Search
+C01587,Germany,Hamburg,2023-07-13,Regular,35-44,Organic
+C01588,Switzerland,Basel,2023-05-08,Regular,45-54,Email
+C01589,Germany,Bremen,2023-07-01,VIP,55+,Social Media
+C01590,Austria,Graz,2023-09-24,Churned,25-34,Social Media
+C01591,Germany,Munich,2023-07-28,VIP,18-24,Organic
+C01592,Germany,Cologne,2023-05-03,Churned,25-34,Referral
+C01593,Germany,Berlin,2023-05-27,Regular,45-54,Organic
+C01594,France,Marseille,2023-09-18,Churned,25-34,Email
+C01595,Belgium,Ghent,2023-09-30,Regular,45-54,Organic
+C01596,Netherlands,Amsterdam,2023-08-06,VIP,35-44,Paid Search
+C01597,Germany,Frankfurt,2023-08-18,Churned,55+,Paid Search
+C01598,Germany,Berlin,2023-07-07,VIP,55+,Social Media
+C01599,Germany,Bremen,2023-09-11,Regular,35-44,Organic
+C01600,Switzerland,Basel,2023-05-08,VIP,18-24,Social Media
+C01601,Austria,Graz,2023-05-31,Regular,18-24,Referral
+C01602,France,Paris,2023-06-06,Churned,55+,Organic
+C01603,Belgium,Ghent,2023-09-07,New,18-24,Referral
+C01604,Belgium,Antwerp,2023-06-02,Regular,18-24,Social Media
+C01605,Germany,Bremen,2023-07-01,New,45-54,Email
+C01606,Netherlands,Amsterdam,2023-09-28,Regular,25-34,Email
+C01607,Germany,Bremen,2023-01-04,New,35-44,Paid Search
+C01608,Belgium,Antwerp,2023-07-11,Regular,45-54,Paid Search
+C01609,Austria,Vienna,2023-08-13,Regular,45-54,Paid Search
+C01610,Germany,Munich,2023-08-11,New,25-34,Organic
+C01611,Netherlands,Utrecht,2023-01-21,New,45-54,Social Media
+C01612,Germany,Hamburg,2023-04-12,Churned,35-44,Organic
+C01613,France,Lyon,2023-10-09,Regular,25-34,Social Media
+C01614,France,Marseille,2023-07-19,New,18-24,Organic
+C01615,Germany,Hamburg,2023-06-26,Regular,25-34,Organic
+C01616,Switzerland,Geneva,2023-01-05,Regular,35-44,Social Media
+C01617,Belgium,Brussels,2023-08-08,New,25-34,Referral
+C01618,Germany,Hamburg,2023-05-24,VIP,35-44,Paid Search
+C01619,France,Paris,2023-08-31,VIP,18-24,Referral
+C01620,Germany,Hamburg,2023-03-18,New,25-34,Email
+C01621,Germany,Munich,2023-04-09,Churned,45-54,Organic
+C01622,Netherlands,Amsterdam,2023-01-27,Regular,55+,Social Media
+C01623,Netherlands,Rotterdam,2023-06-22,Regular,18-24,Referral
+C01624,France,Marseille,2023-01-27,Regular,35-44,Social Media
+C01625,Austria,Graz,2023-08-03,New,18-24,Paid Search
+C01626,Germany,Berlin,2023-01-27,Regular,35-44,Paid Search
+C01627,Austria,Graz,2023-05-24,Churned,18-24,Email
+C01628,Germany,Munich,2023-09-09,Regular,35-44,Organic
+C01629,Germany,Cologne,2023-01-07,Regular,25-34,Social Media
+C01630,Switzerland,Basel,2023-07-05,VIP,55+,Referral
+C01631,Switzerland,Zurich,2023-05-22,New,45-54,Organic
+C01632,Germany,Hamburg,2023-03-03,New,25-34,Paid Search
+C01633,Belgium,Brussels,2023-02-08,Churned,55+,Social Media
+C01634,Austria,Salzburg,2023-08-31,Churned,25-34,Referral
+C01635,Germany,Berlin,2023-03-07,New,55+,Social Media
+C01636,Switzerland,Geneva,2023-08-18,Regular,18-24,Email
+C01637,Germany,Bremen,2023-08-03,Regular,55+,Organic
+C01638,Germany,Frankfurt,2023-05-21,Regular,25-34,Social Media
+C01639,Germany,Frankfurt,2023-02-01,VIP,25-34,Email
+C01640,Belgium,Ghent,2023-09-30,Churned,18-24,Paid Search
+C01641,Belgium,Ghent,2023-07-16,Regular,45-54,Email
+C01642,Austria,Vienna,2023-04-05,New,55+,Paid Search
+C01643,Germany,Stuttgart,2023-09-20,Regular,55+,Social Media
+C01644,Austria,Vienna,2023-06-01,VIP,55+,Organic
+C01645,Germany,Hamburg,2023-01-24,Regular,35-44,Organic
+C01646,Germany,Munich,2023-03-10,Regular,18-24,Paid Search
+C01647,Netherlands,Amsterdam,2023-01-01,Regular,55+,Social Media
+C01648,Switzerland,Zurich,2023-10-09,Regular,25-34,Email
+C01649,Austria,Graz,2023-01-30,Regular,18-24,Social Media
+C01650,Netherlands,Utrecht,2023-04-01,Regular,18-24,Referral
+C01651,Germany,Cologne,2023-07-15,Churned,35-44,Referral
+C01652,Netherlands,Eindhoven,2023-04-23,Regular,25-34,Referral
+C01653,France,Paris,2023-08-17,New,45-54,Social Media
+C01654,Germany,Bremen,2023-02-17,Regular,45-54,Paid Search
+C01655,Germany,Hamburg,2023-10-19,Regular,25-34,Social Media
+C01656,Germany,Munich,2023-03-25,Churned,45-54,Referral
+C01657,Netherlands,Amsterdam,2023-03-15,New,25-34,Email
+C01658,France,Paris,2023-09-27,New,18-24,Referral
+C01659,Germany,Bremen,2023-07-16,New,18-24,Organic
+C01660,Germany,Hamburg,2023-02-12,Regular,55+,Organic
+C01661,Germany,Stuttgart,2023-02-24,Regular,35-44,Organic
+C01662,Netherlands,Rotterdam,2023-09-03,VIP,45-54,Paid Search
+C01663,Austria,Graz,2023-09-03,New,18-24,Referral
+C01664,Austria,Salzburg,2023-10-06,New,18-24,Organic
+C01665,Austria,Vienna,2023-09-19,Churned,45-54,Paid Search
+C01666,Germany,Hamburg,2023-01-13,New,45-54,Paid Search
+C01667,Switzerland,Basel,2023-05-27,New,45-54,Organic
+C01668,Belgium,Brussels,2023-02-26,New,35-44,Social Media
+C01669,Germany,Frankfurt,2023-06-20,New,18-24,Organic
+C01670,Germany,Hamburg,2023-08-08,Regular,55+,Paid Search
+C01671,France,Paris,2023-06-04,Regular,35-44,Social Media
+C01672,Germany,Munich,2023-09-13,Regular,35-44,Organic
+C01673,Germany,Stuttgart,2023-03-18,VIP,25-34,Social Media
+C01674,Germany,Bremen,2023-08-17,VIP,45-54,Organic
+C01675,Germany,Frankfurt,2023-08-07,Churned,35-44,Paid Search
+C01676,Germany,Munich,2023-03-07,New,45-54,Social Media
+C01677,Switzerland,Geneva,2023-08-06,Regular,45-54,Referral
+C01678,Switzerland,Zurich,2023-05-06,Regular,55+,Email
+C01679,Belgium,Ghent,2023-10-02,VIP,45-54,Organic
+C01680,France,Marseille,2023-10-23,VIP,25-34,Organic
+C01681,Netherlands,Utrecht,2023-01-02,New,18-24,Social Media
+C01682,Belgium,Brussels,2023-02-26,New,35-44,Social Media
+C01683,Germany,Munich,2023-08-24,New,55+,Email
+C01684,Netherlands,Rotterdam,2023-04-25,New,25-34,Organic
+C01685,Germany,Bremen,2023-01-14,Regular,45-54,Social Media
+C01686,Germany,Cologne,2023-02-24,Regular,18-24,Email
+C01687,Germany,Berlin,2023-03-17,Regular,18-24,Paid Search
+C01688,Germany,Berlin,2023-10-19,VIP,45-54,Paid Search
+C01689,Germany,Bremen,2023-03-13,VIP,35-44,Email
+C01690,France,Marseille,2023-06-22,Regular,18-24,Social Media
+C01691,Germany,Hamburg,2023-01-31,Churned,18-24,Referral
+C01692,Germany,Frankfurt,2023-03-24,New,45-54,Email
+C01693,Austria,Salzburg,2023-09-14,Regular,25-34,Email
+C01694,Germany,Munich,2023-02-17,Regular,25-34,Paid Search
+C01695,France,Marseille,2023-01-29,New,25-34,Referral
+C01696,Germany,Stuttgart,2023-08-28,Regular,45-54,Email
+C01697,Germany,Berlin,2023-07-10,Regular,25-34,Social Media
+C01698,Germany,Berlin,2023-02-09,Regular,35-44,Organic
+C01699,Netherlands,Utrecht,2023-03-25,Regular,18-24,Paid Search
+C01700,Germany,Stuttgart,2023-06-08,New,25-34,Organic
+C01701,Netherlands,Utrecht,2023-02-13,Churned,55+,Organic
+C01702,Belgium,Brussels,2023-01-25,Regular,35-44,Organic
+C01703,Switzerland,Geneva,2023-07-23,Regular,35-44,Email
+C01704,Switzerland,Zurich,2023-02-19,Regular,55+,Organic
+C01705,Germany,Berlin,2023-10-28,VIP,45-54,Referral
+C01706,Germany,Munich,2023-03-24,New,45-54,Organic
+C01707,Germany,Cologne,2023-04-29,Churned,25-34,Paid Search
+C01708,Switzerland,Geneva,2023-03-09,Regular,35-44,Referral
+C01709,France,Paris,2023-07-18,New,55+,Referral
+C01710,Germany,Hamburg,2023-10-18,Regular,45-54,Organic
+C01711,Germany,Hamburg,2023-06-08,Regular,18-24,Email
+C01712,Germany,Bremen,2023-06-10,New,35-44,Paid Search
+C01713,Germany,Munich,2023-10-23,Regular,18-24,Organic
+C01714,Germany,Cologne,2023-08-24,Regular,45-54,Social Media
+C01715,Belgium,Ghent,2023-03-13,Churned,55+,Email
+C01716,Germany,Munich,2023-05-27,Regular,55+,Paid Search
+C01717,Belgium,Antwerp,2023-09-20,VIP,35-44,Social Media
+C01718,Germany,Cologne,2023-07-31,Regular,35-44,Organic
+C01719,Germany,Cologne,2023-05-06,Regular,55+,Organic
+C01720,Germany,Stuttgart,2023-02-23,Regular,25-34,Referral
+C01721,France,Paris,2023-04-25,Regular,45-54,Organic
+C01722,Switzerland,Geneva,2023-08-28,Regular,45-54,Organic
+C01723,Germany,Hamburg,2023-02-25,Churned,45-54,Email
+C01724,Netherlands,Eindhoven,2023-06-18,New,35-44,Referral
+C01725,Belgium,Brussels,2023-09-01,New,45-54,Organic
+C01726,Germany,Bremen,2023-03-16,Regular,35-44,Referral
+C01727,Germany,Frankfurt,2023-07-14,New,35-44,Email
+C01728,Belgium,Brussels,2023-01-28,New,18-24,Email
+C01729,Austria,Graz,2023-04-01,New,18-24,Social Media
+C01730,France,Paris,2023-06-02,Churned,45-54,Email
+C01731,Netherlands,Utrecht,2023-04-05,VIP,18-24,Email
+C01732,Switzerland,Geneva,2023-03-26,New,45-54,Email
+C01733,Belgium,Ghent,2023-03-24,Churned,45-54,Social Media
+C01734,France,Paris,2023-10-15,VIP,55+,Paid Search
+C01735,Germany,Cologne,2023-10-24,Regular,35-44,Social Media
+C01736,Germany,Hamburg,2023-08-23,Churned,45-54,Social Media
+C01737,Germany,Stuttgart,2023-07-28,Regular,18-24,Email
+C01738,Germany,Cologne,2023-08-19,Regular,55+,Organic
+C01739,Germany,Hamburg,2023-04-07,Regular,55+,Paid Search
+C01740,France,Paris,2023-06-28,New,25-34,Referral
+C01741,Germany,Munich,2023-07-06,New,35-44,Referral
+C01742,Germany,Cologne,2023-09-13,Regular,45-54,Email
+C01743,France,Lyon,2023-06-30,VIP,45-54,Referral
+C01744,Switzerland,Zurich,2023-04-01,Regular,35-44,Paid Search
+C01745,Germany,Frankfurt,2023-08-12,Regular,45-54,Social Media
+C01746,Germany,Berlin,2023-02-23,New,18-24,Referral
+C01747,France,Paris,2023-09-12,VIP,55+,Referral
+C01748,Germany,Cologne,2023-08-16,Regular,18-24,Social Media
+C01749,France,Paris,2023-04-25,VIP,55+,Email
+C01750,Germany,Hamburg,2023-08-29,Churned,35-44,Email
+C01751,France,Marseille,2023-07-22,New,35-44,Paid Search
+C01752,Austria,Graz,2023-05-16,Regular,45-54,Paid Search
+C01753,Germany,Bremen,2023-01-17,New,25-34,Social Media
+C01754,Switzerland,Geneva,2023-03-29,Churned,45-54,Paid Search
+C01755,France,Paris,2023-07-21,VIP,55+,Email
+C01756,Germany,Cologne,2023-07-19,Churned,25-34,Email
+C01757,Switzerland,Basel,2023-03-23,Regular,18-24,Paid Search
+C01758,Germany,Cologne,2023-10-23,VIP,35-44,Referral
+C01759,Germany,Munich,2023-04-15,New,18-24,Email
+C01760,Germany,Cologne,2023-03-20,New,55+,Organic
+C01761,France,Paris,2023-03-08,Churned,35-44,Paid Search
+C01762,Netherlands,Rotterdam,2023-06-02,New,25-34,Email
+C01763,Austria,Salzburg,2023-01-27,Regular,25-34,Organic
+C01764,Germany,Berlin,2023-08-24,Churned,18-24,Organic
+C01765,Germany,Munich,2023-05-15,Churned,18-24,Organic
+C01766,Belgium,Antwerp,2023-04-17,Regular,45-54,Organic
+C01767,France,Paris,2023-09-07,Churned,18-24,Paid Search
+C01768,France,Lyon,2023-06-10,Regular,45-54,Paid Search
+C01769,Germany,Munich,2023-01-06,Churned,55+,Referral
+C01770,Germany,Berlin,2023-06-25,Churned,45-54,Referral
+C01771,Germany,Hamburg,2023-09-25,VIP,18-24,Paid Search
+C01772,Germany,Frankfurt,2023-01-12,Regular,25-34,Paid Search
+C01773,Switzerland,Zurich,2023-04-22,New,25-34,Paid Search
+C01774,Germany,Cologne,2023-03-06,Regular,45-54,Paid Search
+C01775,Germany,Munich,2023-10-10,Regular,45-54,Email
+C01776,France,Marseille,2023-07-24,Churned,35-44,Paid Search
+C01777,Netherlands,Utrecht,2023-07-21,New,55+,Social Media
+C01778,Germany,Stuttgart,2023-04-16,Churned,45-54,Email
+C01779,Belgium,Antwerp,2023-05-20,VIP,55+,Organic
+C01780,France,Lyon,2023-04-13,Regular,35-44,Organic
+C01781,Belgium,Brussels,2023-01-18,Churned,35-44,Referral
+C01782,France,Lyon,2023-09-29,Regular,18-24,Organic
+C01783,Germany,Stuttgart,2023-06-15,Regular,25-34,Social Media
+C01784,Netherlands,Amsterdam,2023-04-21,Regular,35-44,Paid Search
+C01785,Switzerland,Zurich,2023-01-05,Regular,18-24,Social Media
+C01786,Netherlands,Eindhoven,2023-10-18,VIP,25-34,Referral
+C01787,Germany,Bremen,2023-05-26,Regular,55+,Paid Search
+C01788,Germany,Frankfurt,2023-05-23,VIP,18-24,Referral
+C01789,France,Marseille,2023-08-11,Regular,35-44,Paid Search
+C01790,Netherlands,Amsterdam,2023-09-10,Regular,35-44,Email
+C01791,Germany,Berlin,2023-08-20,New,35-44,Referral
+C01792,France,Paris,2023-10-23,New,18-24,Referral
+C01793,Germany,Bremen,2023-05-26,New,45-54,Organic
+C01794,Germany,Munich,2023-01-09,New,18-24,Email
+C01795,Austria,Graz,2023-06-12,VIP,45-54,Organic
+C01796,Switzerland,Geneva,2023-01-25,Regular,45-54,Email
+C01797,Germany,Stuttgart,2023-07-11,Churned,18-24,Organic
+C01798,Netherlands,Amsterdam,2023-01-06,New,35-44,Email
+C01799,Netherlands,Rotterdam,2023-02-15,New,35-44,Referral
+C01800,Germany,Cologne,2023-01-27,Regular,18-24,Organic
+C01801,Germany,Munich,2023-02-08,Regular,55+,Email
+C01802,Austria,Salzburg,2023-03-29,Churned,55+,Email
+C01803,Germany,Hamburg,2023-06-13,Churned,55+,Email
+C01804,Belgium,Ghent,2023-03-04,Regular,25-34,Referral
+C01805,Belgium,Ghent,2023-09-08,Churned,35-44,Email
+C01806,Netherlands,Amsterdam,2023-05-16,VIP,18-24,Social Media
+C01807,Netherlands,Rotterdam,2023-02-09,New,45-54,Organic
+C01808,Netherlands,Amsterdam,2023-04-21,Regular,45-54,Paid Search
+C01809,Belgium,Brussels,2023-06-24,New,55+,Referral
+C01810,Switzerland,Geneva,2023-08-21,Regular,55+,Organic
+C01811,Germany,Hamburg,2023-07-06,Regular,45-54,Referral
+C01812,Netherlands,Eindhoven,2023-04-07,New,45-54,Paid Search
+C01813,Austria,Salzburg,2023-02-22,New,18-24,Organic
+C01814,Netherlands,Amsterdam,2023-08-24,New,18-24,Email
+C01815,Belgium,Antwerp,2023-05-16,New,55+,Organic
+C01816,Switzerland,Geneva,2023-04-19,New,55+,Email
+C01817,Switzerland,Zurich,2023-08-14,Regular,18-24,Organic
+C01818,France,Marseille,2023-08-05,New,25-34,Email
+C01819,Germany,Frankfurt,2023-05-22,Regular,45-54,Referral
+C01820,France,Paris,2023-01-26,Regular,18-24,Paid Search
+C01821,Germany,Berlin,2023-01-19,Regular,25-34,Organic
+C01822,Germany,Munich,2023-04-26,Churned,45-54,Email
+C01823,France,Paris,2023-04-23,VIP,35-44,Email
+C01824,Netherlands,Rotterdam,2023-04-15,Regular,35-44,Referral
+C01825,Austria,Salzburg,2023-01-02,New,55+,Referral
+C01826,Belgium,Ghent,2023-06-06,Churned,25-34,Paid Search
+C01827,Switzerland,Basel,2023-02-05,New,35-44,Email
+C01828,Germany,Berlin,2023-08-31,Regular,18-24,Paid Search
+C01829,Austria,Vienna,2023-03-29,Regular,18-24,Referral
+C01830,Switzerland,Geneva,2023-10-26,New,25-34,Email
+C01831,Germany,Berlin,2023-01-09,Regular,35-44,Paid Search
+C01832,Germany,Stuttgart,2023-03-17,VIP,18-24,Social Media
+C01833,Switzerland,Geneva,2023-09-09,VIP,55+,Social Media
+C01834,Belgium,Antwerp,2023-07-06,Regular,35-44,Social Media
+C01835,Switzerland,Basel,2023-09-05,New,55+,Organic
+C01836,Germany,Bremen,2023-04-23,Regular,25-34,Social Media
+C01837,Belgium,Brussels,2023-05-06,Regular,45-54,Social Media
+C01838,Netherlands,Amsterdam,2023-04-10,Churned,45-54,Organic
+C01839,Austria,Salzburg,2023-10-06,Churned,45-54,Referral
+C01840,Germany,Munich,2023-06-28,Churned,45-54,Referral
+C01841,France,Lyon,2023-06-08,New,55+,Referral
+C01842,Switzerland,Basel,2023-03-04,Regular,45-54,Referral
+C01843,Switzerland,Geneva,2023-02-26,Churned,45-54,Paid Search
+C01844,Belgium,Ghent,2023-03-18,Regular,35-44,Referral
+C01845,Germany,Munich,2023-09-07,Regular,35-44,Organic
+C01846,Belgium,Brussels,2023-04-22,Regular,55+,Organic
+C01847,Germany,Bremen,2023-06-06,New,35-44,Organic
+C01848,Germany,Munich,2023-03-12,Regular,35-44,Referral
+C01849,Germany,Berlin,2023-05-19,New,25-34,Email
+C01850,Germany,Munich,2023-04-23,New,35-44,Paid Search
+C01851,France,Lyon,2023-07-24,Churned,18-24,Social Media
+C01852,Austria,Salzburg,2023-06-09,New,45-54,Social Media
+C01853,Germany,Cologne,2023-04-13,Regular,45-54,Referral
+C01854,Netherlands,Utrecht,2023-06-06,New,55+,Email
+C01855,Germany,Bremen,2023-08-12,New,55+,Email
+C01856,Switzerland,Basel,2023-07-03,Regular,45-54,Email
+C01857,France,Lyon,2023-08-25,New,55+,Organic
+C01858,France,Paris,2023-03-13,Regular,35-44,Paid Search
+C01859,Switzerland,Zurich,2023-10-06,Churned,35-44,Organic
+C01860,France,Paris,2023-07-26,Regular,45-54,Referral
+C01861,Belgium,Brussels,2023-02-13,New,18-24,Social Media
+C01862,Germany,Stuttgart,2023-05-29,Regular,35-44,Organic
+C01863,Germany,Cologne,2023-10-27,Regular,18-24,Paid Search
+C01864,Germany,Frankfurt,2023-09-11,New,25-34,Social Media
+C01865,Austria,Salzburg,2023-01-04,VIP,55+,Paid Search
+C01866,Germany,Berlin,2023-01-01,New,18-24,Referral
+C01867,Germany,Hamburg,2023-04-15,New,18-24,Referral
+C01868,Belgium,Antwerp,2023-01-29,Churned,35-44,Email
+C01869,Belgium,Brussels,2023-05-01,VIP,55+,Social Media
+C01870,Belgium,Ghent,2023-03-05,Regular,18-24,Paid Search
+C01871,Germany,Stuttgart,2023-05-04,New,55+,Paid Search
+C01872,Belgium,Antwerp,2023-05-29,Regular,18-24,Referral
+C01873,Belgium,Antwerp,2023-05-21,Regular,18-24,Email
+C01874,France,Lyon,2023-03-17,New,45-54,Organic
+C01875,France,Paris,2023-10-25,Regular,55+,Email
+C01876,Germany,Munich,2023-03-13,Regular,45-54,Social Media
+C01877,Germany,Hamburg,2023-07-03,Regular,55+,Paid Search
+C01878,Switzerland,Basel,2023-09-26,Regular,18-24,Paid Search
+C01879,Germany,Munich,2023-10-16,Regular,25-34,Social Media
+C01880,Austria,Graz,2023-02-04,Churned,45-54,Email
+C01881,Belgium,Ghent,2023-04-03,Regular,55+,Referral
+C01882,Austria,Vienna,2023-06-15,Regular,55+,Social Media
+C01883,France,Paris,2023-01-24,New,25-34,Paid Search
+C01884,Germany,Cologne,2023-02-24,Regular,45-54,Social Media
+C01885,Netherlands,Rotterdam,2023-02-23,Churned,25-34,Email
+C01886,France,Paris,2023-02-01,Regular,18-24,Organic
+C01887,Germany,Bremen,2023-07-11,Regular,18-24,Paid Search
+C01888,Switzerland,Zurich,2023-08-19,Regular,55+,Referral
+C01889,Netherlands,Rotterdam,2023-05-10,Regular,35-44,Paid Search
+C01890,Netherlands,Rotterdam,2023-08-11,VIP,25-34,Organic
+C01891,Germany,Cologne,2023-02-19,New,25-34,Organic
+C01892,Switzerland,Geneva,2023-10-18,Regular,18-24,Social Media
+C01893,Germany,Cologne,2023-09-28,Regular,25-34,Referral
+C01894,Belgium,Ghent,2023-06-30,Regular,55+,Paid Search
+C01895,Germany,Bremen,2023-08-07,Regular,18-24,Referral
+C01896,Germany,Hamburg,2023-09-22,Regular,18-24,Email
+C01897,Netherlands,Amsterdam,2023-10-04,Regular,25-34,Social Media
+C01898,Austria,Graz,2023-07-03,New,25-34,Social Media
+C01899,Germany,Frankfurt,2023-10-22,New,55+,Referral
+C01900,Austria,Graz,2023-01-30,Regular,18-24,Referral
+C01901,Belgium,Antwerp,2023-01-16,New,45-54,Social Media
+C01902,Netherlands,Utrecht,2023-01-31,New,55+,Social Media
+C01903,Germany,Hamburg,2023-09-10,New,55+,Referral
+C01904,Germany,Munich,2023-02-06,Churned,55+,Referral
+C01905,Germany,Frankfurt,2023-09-03,Churned,35-44,Organic
+C01906,Germany,Berlin,2023-09-12,Regular,35-44,Email
+C01907,Belgium,Antwerp,2023-04-27,New,18-24,Organic
+C01908,Netherlands,Eindhoven,2023-01-10,Regular,18-24,Email
+C01909,France,Marseille,2023-03-06,Regular,45-54,Referral
+C01910,Germany,Berlin,2023-08-13,New,55+,Social Media
+C01911,Switzerland,Zurich,2023-06-25,Regular,18-24,Paid Search
+C01912,Netherlands,Amsterdam,2023-01-06,New,55+,Referral
+C01913,Germany,Stuttgart,2023-01-08,Churned,25-34,Organic
+C01914,Germany,Berlin,2023-03-06,Regular,35-44,Organic
+C01915,Switzerland,Geneva,2023-05-06,Churned,25-34,Referral
+C01916,France,Lyon,2023-03-04,Regular,18-24,Social Media
+C01917,Netherlands,Eindhoven,2023-07-02,Churned,25-34,Email
+C01918,Austria,Graz,2023-10-10,Regular,25-34,Referral
+C01919,Austria,Graz,2023-10-05,Regular,18-24,Social Media
+C01920,France,Marseille,2023-09-06,Regular,25-34,Paid Search
+C01921,Netherlands,Utrecht,2023-10-11,New,35-44,Paid Search
+C01922,Germany,Hamburg,2023-08-14,Regular,45-54,Organic
+C01923,Germany,Bremen,2023-01-18,Regular,55+,Email
+C01924,Austria,Vienna,2023-01-31,Regular,55+,Email
+C01925,Belgium,Brussels,2023-07-15,Regular,18-24,Paid Search
+C01926,Netherlands,Eindhoven,2023-04-05,Regular,55+,Organic
+C01927,Austria,Vienna,2023-10-05,VIP,18-24,Referral
+C01928,Switzerland,Geneva,2023-04-21,VIP,35-44,Referral
+C01929,France,Lyon,2023-01-30,VIP,55+,Email
+C01930,Austria,Salzburg,2023-08-26,Regular,55+,Referral
+C01931,Austria,Vienna,2023-07-15,Regular,25-34,Paid Search
+C01932,Germany,Munich,2023-05-21,New,25-34,Referral
+C01933,Austria,Graz,2023-10-20,Regular,55+,Social Media
+C01934,Switzerland,Geneva,2023-05-09,VIP,55+,Organic
+C01935,Germany,Munich,2023-10-19,Regular,35-44,Paid Search
+C01936,Belgium,Antwerp,2023-01-09,Regular,45-54,Organic
+C01937,Switzerland,Geneva,2023-10-12,New,18-24,Referral
+C01938,Germany,Munich,2023-10-10,Regular,18-24,Email
+C01939,Germany,Munich,2023-05-22,Regular,45-54,Paid Search
+C01940,Netherlands,Rotterdam,2023-03-17,Churned,18-24,Paid Search
+C01941,Germany,Cologne,2023-01-20,New,55+,Email
+C01942,Switzerland,Zurich,2023-10-11,VIP,18-24,Social Media
+C01943,Austria,Vienna,2023-06-30,Regular,18-24,Referral
+C01944,Netherlands,Utrecht,2023-02-25,New,45-54,Organic
+C01945,Germany,Hamburg,2023-04-15,Regular,35-44,Email
+C01946,Germany,Cologne,2023-08-07,Churned,25-34,Organic
+C01947,Switzerland,Basel,2023-07-04,Regular,45-54,Social Media
+C01948,Belgium,Antwerp,2023-01-16,New,18-24,Social Media
+C01949,Germany,Frankfurt,2023-01-14,New,25-34,Social Media
+C01950,Switzerland,Zurich,2023-07-13,VIP,18-24,Paid Search
+C01951,France,Marseille,2023-02-10,Churned,25-34,Referral
+C01952,France,Marseille,2023-03-04,VIP,55+,Organic
+C01953,Belgium,Ghent,2023-09-26,Regular,35-44,Social Media
+C01954,Netherlands,Utrecht,2023-05-05,Regular,35-44,Paid Search
+C01955,Belgium,Antwerp,2023-03-01,Regular,45-54,Email
+C01956,Switzerland,Zurich,2023-06-30,Regular,18-24,Social Media
+C01957,Belgium,Ghent,2023-04-28,Regular,45-54,Paid Search
+C01958,Germany,Frankfurt,2023-05-06,VIP,45-54,Referral
+C01959,Germany,Frankfurt,2023-05-14,VIP,35-44,Social Media
+C01960,Germany,Berlin,2023-07-29,Regular,25-34,Referral
+C01961,Belgium,Ghent,2023-04-12,Churned,45-54,Organic
+C01962,Germany,Berlin,2023-08-03,Regular,55+,Email
+C01963,Germany,Hamburg,2023-01-18,VIP,18-24,Paid Search
+C01964,Germany,Hamburg,2023-09-21,Churned,45-54,Email
+C01965,Switzerland,Zurich,2023-07-25,Regular,25-34,Social Media
+C01966,Germany,Munich,2023-06-22,Regular,55+,Organic
+C01967,Germany,Berlin,2023-07-01,Churned,45-54,Email
+C01968,France,Lyon,2023-09-02,VIP,25-34,Referral
+C01969,Germany,Hamburg,2023-01-04,Regular,35-44,Email
+C01970,France,Lyon,2023-08-13,New,55+,Social Media
+C01971,Germany,Hamburg,2023-06-02,Regular,18-24,Referral
+C01972,France,Lyon,2023-06-15,Regular,25-34,Paid Search
+C01973,Germany,Stuttgart,2023-04-18,Regular,35-44,Referral
+C01974,Switzerland,Zurich,2023-06-27,Regular,18-24,Social Media
+C01975,Austria,Graz,2023-08-13,New,25-34,Social Media
+C01976,Austria,Salzburg,2023-02-24,Churned,35-44,Paid Search
+C01977,Germany,Hamburg,2023-10-10,VIP,25-34,Organic
+C01978,Germany,Frankfurt,2023-10-03,VIP,18-24,Email
+C01979,Germany,Munich,2023-04-15,Regular,55+,Email
+C01980,Belgium,Ghent,2023-03-06,VIP,35-44,Organic
+C01981,Germany,Bremen,2023-08-10,Regular,18-24,Paid Search
+C01982,Austria,Salzburg,2023-03-01,Churned,18-24,Paid Search
+C01983,Germany,Munich,2023-03-22,Regular,35-44,Email
+C01984,Germany,Cologne,2023-06-11,Churned,18-24,Email
+C01985,Germany,Cologne,2023-09-24,Regular,55+,Organic
+C01986,Germany,Hamburg,2023-03-12,Regular,25-34,Paid Search
+C01987,Austria,Graz,2023-03-19,Regular,25-34,Email
+C01988,Austria,Vienna,2023-04-12,Regular,18-24,Referral
+C01989,Netherlands,Amsterdam,2023-08-11,New,55+,Referral
+C01990,Netherlands,Rotterdam,2023-01-20,Regular,35-44,Referral
+C01991,France,Marseille,2023-10-26,New,35-44,Email
+C01992,Germany,Munich,2023-04-29,Churned,45-54,Email
+C01993,France,Marseille,2023-07-02,Regular,35-44,Organic
+C01994,Netherlands,Amsterdam,2023-05-28,Regular,45-54,Social Media
+C01995,Netherlands,Eindhoven,2023-03-01,New,35-44,Organic
+C01996,Switzerland,Basel,2023-07-23,VIP,45-54,Email
+C01997,France,Marseille,2023-05-01,New,35-44,Referral
+C01998,Netherlands,Eindhoven,2023-02-01,Regular,35-44,Social Media
+C01999,Switzerland,Geneva,2023-07-20,VIP,45-54,Email
+C02000,Austria,Vienna,2023-05-18,Regular,25-34,Social Media
