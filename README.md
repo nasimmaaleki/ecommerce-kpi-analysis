@@ -2,77 +2,120 @@
 ### Business Analyst Portfolio Project | Nasim Maleki
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://python.org)
-[![SQL](https://img.shields.io/badge/SQL-SQLite%20%2F%20MySQL-orange?logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Dashboard](https://img.shields.io/badge/Dashboard-HTML%20%2F%20Chart.js-purple)](dashboard/index.html)
-[![Status](https://img.shields.io/badge/Status-Complete-green)]()
+[![SQL](https://img.shields.io/badge/SQL-coming%20soon-orange)]()
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
 
 ---
 
 ## Business Context
 
-A European e-commerce company experienced a significant revenue decline in Q3 2023. As Business Analyst, I was tasked with:
+A European e-commerce company experienced a significant revenue decline in Q3 2023.
+As Business Analyst, I was tasked with identifying the root cause, understanding which
+customer segments and product categories were most affected, and delivering
+evidence-based recommendations.
 
-- Investigating the **root cause** of the Q3 revenue drop (−27.6% QoQ)
-- Identifying which **customer segments**, **product categories**, and **sales channels** were most affected
-- Delivering **evidence-based recommendations** to prevent recurrence and accelerate Q4 recovery
+---
+
+## Business Questions
+
+- Where exactly does the revenue dip occur and how severe is it?
+- Is the drop caused by fewer orders, or lower spend per order?
+- Which product categories and channels are most affected?
+- How loyal is the customer base — and what does loyalty mean in this data?
+- Does discounting actually drive higher spend?
+- Who are the most valuable customers?
 
 ---
 
 ## Project Structure
 
 ```
-project1-ecommerce-kpi/
+ecommerce-kpi-analysis/
 │
-├── data/                        # Source datasets (generated)
-│   ├── orders.csv               # 5,260 orders · 2023
+├── README.md
+│
+├── data/
+│   ├── orders.csv               # 5,260 orders across 2023
 │   ├── order_items.csv          # 10,414 line items
 │   ├── customers.csv            # 2,000 customers
 │   └── products.csv             # 120 products across 6 categories
 │
-├── sql/
-│   └── 01_revenue_analysis.sql  # 10 business questions answered in SQL
-│
-├── analysis/
-│   ├── run_analysis.py          # Python runner: SQLite + result export
-│   ├── monthly_revenue.csv      # Output: monthly KPIs
-│   ├── quarterly_growth.csv     # Output: QoQ growth
-│   ├── category_by_quarter.csv  # Output: category breakdown
-│   ├── segment_performance.csv  # Output: customer segments
-│   └── ...                      # 5 more analysis outputs
-│
-├── dashboard/
-│   └── index.html               # Interactive HTML dashboard (8 charts)
-│
-├── reports/
-│   └── BA_Report_Q3_Analysis.md # Full business analyst report
-│
-└── generate_data.py             # Synthetic dataset generator
+└── analysis/
+    ├── eda_and_kpis.py          # EDA, KPI definitions, visualizations
+    ├── chart_monthly_revenue.png
+    ├── chart_quarterly_revenue.png
+    ├── chart_category_revenue.png
+    ├── chart_channel_performance.png
+    ├── chart_top_products.png
+    ├── chart_loyalty.png
+    └── chart_discount_correlation.png
 ```
 
 ---
 
 ## Key Findings
 
-| # | Finding | Impact |
-|---|---------|--------|
-| 1 | Q3 order **volume** fell 28% — AOV remained stable | Demand issue, not pricing |
-| 2 | **VIP customers** (15% of base) drive 33% of revenue | Retention risk |
-| 3 | **Electronics** (largest category) fell 29% in Q3 | Seasonal demand gap |
-| 4 | **Return rate** slightly elevated in Q3 (5.8% vs 5.4% avg) | Minor quality signal |
-| 5 | **Direct channels** (website, app) outperform marketplace | Channel shift opportunity |
-| 6 | Q4 recovered to €752K — strongest quarter of the year | Seasonal pattern confirmed |
+| # | Finding | Business Implication |
+|---|---------|----------------------|
+| 1 | Q3 revenue dropped −27.6% vs Q2 | Seasonal demand issue, not a pricing problem |
+| 2 | Average order value stayed stable at €505 across all quarters | Customers who did buy, spent normally — volume dropped, not spend |
+| 3 | Only 23.4% of customers qualify as loyal (2+ orders, 6+ month lifecycle) | 76% of the customer base needs re-engagement |
+| 4 | Electronics generates 60% of total revenue | High concentration risk — one category drives the business |
+| 5 | Discounting shows no correlation with higher spend per order | Blanket discounts reduce margin without increasing order value |
+| 6 | All four channels perform within a close range | No single channel dominates — diversified but no clear winner |
 
 ---
 
-## Technologies Used
+## KPIs Defined
+
+- **Total Revenue** — completed orders only
+- **Average Order Value (AOV)** — revenue per completed order
+- **Return Rate** — returned orders as % of all orders
+- **Quarterly & Monthly Revenue** — trend analysis
+- **Quarter-over-Quarter Growth** — % change between quarters
+- **Customer Loyalty Rate** — customers with more than average orders AND 6+ month lifecycle
+- **Channel Performance** — orders and revenue by acquisition channel
+- **Category Revenue & Order Volume** — by product category
+- **Top 10 Products** — by total revenue generated
+- **Top 10 Customers** — by lifetime spend
+
+---
+
+## Visualizations
+
+![Monthly Revenue](analysis/chart_monthly_revenue.png)
+
+![Quarterly Revenue](analysis/chart_quarterly_revenue.png)
+
+![Category Revenue](analysis/chart_category_revenue.png)
+
+![Channel Performance](analysis/chart_channel_performance.png)
+
+![Top Products](analysis/chart_top_products.png)
+
+![Customer Loyalty](analysis/chart_loyalty.png)
+
+![Discount vs Spend](analysis/chart_discount_correlation.png)
+
+---
+
+## Recommendations
+
+1. **Launch a pre-Q3 campaign** — start targeted promotions in June to prevent the summer demand drop
+2. **Introduce a VIP retention programme** — 33% of revenue comes from a small customer group; early access offers and personalised outreach would reduce churn risk
+3. **Replace blanket discounts with segment-targeted offers** — data shows discounts do not increase order value; redirect discount budget to churned customer reactivation
+4. **Diversify beyond Electronics** — 60% revenue dependence on one category is a structural risk; invest in growing Sports and Home & Garden
+5. **Re-engage the 76% non-loyal customers** — automated email sequences triggered at 60 and 90 days post-purchase could significantly improve retention rate
+
+---
+
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
-| **Python (Pandas, NumPy)** | Data generation, transformation, analysis pipeline |
-| **SQL (SQLite / MySQL)** | 10 structured business queries, cohort analysis, KPI extraction |
-| **Chart.js** | Interactive 8-panel dashboard with hover tooltips |
-| **HTML / CSS** | Professional dashboard layout and styling |
-| **Excel** | Pivot table verification, stakeholder summary |
+| Python — Pandas | Data loading, cleaning, KPI calculation |
+| Python — Matplotlib, Seaborn | Data visualizations |
+| SQL | Business queries — *coming next* |
 
 ---
 
@@ -81,55 +124,13 @@ project1-ecommerce-kpi/
 ```bash
 # 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/ecommerce-kpi-analysis.git
-cd ecommerce-kpi-analysis
 
 # 2. Install dependencies
-pip install pandas numpy
+pip install pandas numpy matplotlib seaborn
 
-# 3. Generate the dataset
-python generate_data.py
-
-# 4. Run all SQL analyses
-python analysis/run_analysis.py
-
-# 5. Open the dashboard
-open dashboard/index.html    # macOS
-# or just double-click index.html in your file explorer
+# 3. Run the analysis
+python analysis/eda_and_kpis.py
 ```
-
----
-
-## Dashboard Preview
-
-The interactive dashboard covers:
-- Monthly and quarterly revenue trends with Q3 anomaly highlighted
-- Category-level stacked breakdown per quarter
-- Customer segment contribution (VIP / Regular / New / Churned)
-- Channel performance (Website, App, Marketplace, Phone)
-- Return rate trend and discount impact analysis
-- Top 10 customers by lifetime value
-
----
-
-## Business Recommendations
-
-1. **Launch Q3 seasonal campaign** — start in June with targeted promotions to pre-empt July drop
-2. **Implement VIP retention programme** — early access, personalised outreach, loyalty rewards
-3. **Invest in direct-channel UX** — website and app outperform marketplace; shift budget accordingly
-4. **Review Fashion return process** — 18% return rate is significantly above average; size guide and product photography improvements recommended
-5. **Monitor cohort retention** — Q1 cohort showed reduced activity by Q3; automated re-engagement emails recommended at the 90-day mark
-
----
-
-## About This Project
-
-This project demonstrates a complete business analyst workflow:
-
-1. **Requirements definition** — translating business questions into measurable KPIs
-2. **Data preparation** — realistic dataset with controlled seasonal patterns
-3. **SQL analysis** — structured queries to extract actionable insights
-4. **Visualisation** — dashboard designed for stakeholder presentation
-5. **Reporting** — evidence-based recommendations with business justification
 
 ---
 
