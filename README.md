@@ -123,7 +123,7 @@ ecommerce-kpi-analysis/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/ecommerce-kpi-analysis.git
+git clone https://github.com/nasimmaaleki/ecommerce-kpi-analysis.git
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn
