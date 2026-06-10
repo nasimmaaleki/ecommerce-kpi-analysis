@@ -2,7 +2,7 @@
 ### Business Analyst Portfolio Project | Nasim Maleki
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://python.org)
-[![SQL](https://img.shields.io/badge/SQL-coming%20soon-orange)]()
+[![SQL](https://img.shields.io/badge/SQL-SQLite%20%2F%20DBeaver-orange?logo=mysql&logoColor=white)]()
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
 
 ---
@@ -115,7 +115,7 @@ ecommerce-kpi-analysis/
 |------|---------|
 | Python — Pandas | Data loading, cleaning, KPI calculation |
 | Python — Matplotlib, Seaborn | Data visualizations |
-| SQL | Business queries — *coming next* |
+| SQL — SQLite, DBeaver | 10 business queries, CTE, multi-table joins |
 
 ---
 
