@@ -159,7 +159,6 @@ LIMIT 10;
 
 -- 9.Customer loyalty
 -- Business question:more orders than average AND lifecycle 6+ months
--- Drop views if they exist (run these first, one by one)
 DROP VIEW IF EXISTS customer_orders;
 DROP VIEW IF EXISTS lifetime;
 DROP VIEW IF EXISTS average_order;
