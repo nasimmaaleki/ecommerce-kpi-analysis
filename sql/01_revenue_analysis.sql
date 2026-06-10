@@ -11,8 +11,7 @@ WHERE status = 'Completed';
 
 
 -- 2. QUARTERLY REVENUE
--- Business question: How does revenue differ across quarters
--- and what is the growth rate between them?
+-- Business question: How does revenue differ across quarters and what is the growth rate between them?
 SELECT quarter,
     COUNT(DISTINCT order_id) AS total_orders,
     COUNT(DISTINCT customer_id) AS unique_customers,
