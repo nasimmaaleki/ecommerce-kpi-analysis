@@ -12,6 +12,6 @@ The objective of this analysis is to evaluate overall business performance in 20
 - Which product category generates the most revenue and volume?
 - What is the return and cancellation rate by month, did order quality worsen in Q3?
 - Who are the top 10 customers by lifetime spend, and what segment are they in?
-- Top 10 products by revenue
-- Which customers qualify as loyal?
+- Which products generate the most revenue and what drives their performance?
+- What proportion of the customer base qualifies as loyal, and how is loyalty defined?
 - Does giving a higher discount actually lead to higher spend per order?
