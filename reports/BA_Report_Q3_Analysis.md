@@ -15,3 +15,17 @@ The objective of this analysis is to evaluate overall business performance in 20
 - Which products generate the most revenue and what drives their performance?
 - What proportion of the customer base qualifies as loyal, and how is loyalty defined?
 - Does giving a higher discount actually lead to higher spend per order?
+
+
+The analysis was conducted using Python, SQL and PowerBI on a synthetic dataset representing a European e-commerce business across the full year 2023.
+The dataset consists of 4 tables — orders (5,260 records),  order items (10,414 records), customers (2,000 records), and products (120 records), covering transactions, customer 
+profiles, and product catalogue data.
+
+Python was used for exploratory data analysis, KPI calculation, and data visualization across several charts.
+
+SQL was used to answer 10 structured business questions through  multi-table joins, CTEs, Views and aggregations in DBeaver with SQLite.
+
+Power BI was used to build an interactive management dashboard presenting key findings across revenue, customer, product, and channel dimensions.
+
+All results were cross-validated across tools to ensure consistency and accuracy.
+
