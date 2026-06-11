@@ -29,3 +29,49 @@ Power BI was used to build an interactive management dashboard presenting key fi
 
 All results were cross-validated across tools to ensure consistency and accuracy.
 
+Findings
+Q3 revenue decline:
+Regarding th data through 2023, we face with the significan decline in Q3. 27.6% 
+What: revenue dropped in Q3
+Evidence: Q2 vs Q3 numbers, order volume vs AOV
+Meaning: seasonal demand issue, not a pricing problem
+
+
+The six findings are:
+
+**Finding 1:  Q3 Revenue Declined 27.6% Due to Lower Demand**
+
+Revenue dropped from €615K in Q2 to €445K in Q3, representing a 27.6% quarter-over-quarter decline and the lowest revenue quarter of the year.
+Importantly, average order value remained stable at €499 in Q3 compared to €494 in Q2. This confirms the decline was driven by lower order volume, from 1,245 orders in Q2 to 891 in Q3,
+rather than customers spending less per order.
+This pattern indicates a seasonal demand gap rather than a structural or pricing problem, supported by the strong Q4 recovery to €752K.
+
+**Finding 2 — Only 23.4% of Customers Qualify as Loyal**
+
+Unlike the conventional definition of loyalty based solely on account age, this analysis defines a loyal customer as one who has both a lifecycle of 6 or more months AND a number of completed orders above the customer average of 2.94.
+Based on this definition, only 23.4% of the 2,000 customers qualify as loyal. This means 76.6% of the customer base has either a short relationship with the business, below-average purchase frequency, or both.
+This represents a significant retention gap and suggests the majority of customers are not being effectively re-engaged after their first purchase.
+
+**Finding 3 — Electronics Accounts for 60% of Revenue, Concentration Risk**
+
+Electronics is by far the highest performing category, generating €1.4M from 1,765 orders, approximately 60% of total annual revenue. 
+The next largest category, Sports, generated only €290K. However, this level of concentration represents a structural risk. If Electronics demand declines due to market competition, supply chain disruption, or shifting consumer preferences, the business 
+has no other category large enough to compensate.
+Categories such as Sports and Home & Garden show healthy order  volumes but significantly lower revenue, suggesting an opportunity  to grow average order value in these categories rather than depending solely on Electronics.
+**Finding 4 — All Four Channels Perform Within a Close Range**
+
+The company operates across four sales channels, Phone, Marketplace, Mobile App, and Website — which generate between €571K and €631K in revenue respectively, a difference of only 
+€60K across the full year. Average order value is consistently around €500 across all channels.
+This suggests no single channel has a significant competitive advantage over the others, and that customers are equally comfortable purchasing through any channel.
+Rather than investing heavily in one channel, the business would benefit more from improving cross-channel consistency and customer experience, as marginal gains in any single channel are unlikely to drive meaningful revenue growth.
+**Finding 5 — Discounting Neither Increases Spend nor Order Volume**
+
+To assess the effectiveness of the company's discount strategy, two relationships were tested — whether higher discounts lead to 
+higher spend per order, and whether they drive more orders.
+The correlation between discount rate and line total value was −0.05, indicating no meaningful relationship. Customers receiving a 20% discount spent an average of €214 per line item compared to €266 for full-price orders.
+More strikingly, order volume also decreases as discount increases. Full-price orders account for 3,465 completed orders while the highest discount band generated only 440 orders.
+
+The data suggests the business is giving away margin with no measurable return in either spend or volume. Targeted discounts for specific segments such as churned customer reactivation would be a more effective use of promotional budget.
+
+Two Regular segment customers behave like VIPs, segmentation gap
+
