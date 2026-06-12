@@ -248,6 +248,7 @@ If these customers are not identified and treated accordingly, the business risk
 ![Top Products](../analysis/chart_top_products.png)
 
 **Chart 6 — Customer Loyalty Distribution**
+
 ![Customer Loyalty](../analysis/chart_loyalty.png)
 
 **Chart 7 — Discount Rate vs Line Total**
