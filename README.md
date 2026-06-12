@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://python.org)
 [![SQL](https://img.shields.io/badge/SQL-SQLite%20%2F%20DBeaver-orange?logo=mysql&logoColor=white)]()
-[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 
 ---
 
