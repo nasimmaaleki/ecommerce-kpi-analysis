@@ -136,6 +136,7 @@ Expected outcome: Higher customer satisfaction across all touchpoints, improved 
 **Chart 5 — Top 10 Products by Revenue**
 ![Top Products](../analysis/chart_top_products.png)
 
+
 **Chart 6 — Customer Loyalty Distribution**
 ![Customer Loyalty](../analysis/chart_loyalty.png)
 
