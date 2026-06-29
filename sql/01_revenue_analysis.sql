@@ -40,7 +40,7 @@ ORDER BY order_month;
 
 
 -- Channels performance 
--- Business question: Which sales channel generates the most revenue and orders?
+-- 4- Business question: Which sales channel generates the most revenue and orders?
 SELECT 
 	channel,
 	COUNT(DISTINCT order_id) AS total_orders,
@@ -53,7 +53,7 @@ GROUP BY channel
 ORDER BY  total_revenue DESC;
 
 -- Product performance
---Business question: Which product category generates the most revenue and volume?
+-- 5-Business question: Which product category generates the most revenue and volume?
 
 SELECT 
 	oi.category,
@@ -70,7 +70,7 @@ ORDER BY  total_revenue DESC;
 
 
 -- Order quality by month
--- Business question: What is the return and cancellation rate by month, did order quality worsen in Q3?
+-- 6- Business question: What is the return and cancellation rate by month, did order quality worsen in Q3?
 
 WITH order_status_summary AS (
     SELECT
@@ -99,7 +99,7 @@ ORDER BY unsuccessful_rate_pct DESC;
 
 
 -- Valuable Customers profile
--- Business question: Who are the top 10 customers by lifetime spend, and what segment are they in?
+-- 7-Business question: Who are the top 10 customers by lifetime spend, and what segment are they in?
 SELECT 
 	c.customer_id,
 	c.country,
@@ -131,7 +131,7 @@ INNER JOIN orders o ON c.customer_id = o.customer_id
 WHERE o.status = 'Completed'
 GROUP BY c.customer_id;
 
--- 7. TOP 10 MOST VALUABLE CUSTOMERS
+-- 8. TOP 10 MOST VALUABLE CUSTOMERS
 -- Business question: Who are the top 10 customers by lifetime spend?
 
 SELECT *
@@ -139,7 +139,7 @@ FROM vw_customer_value
 ORDER BY total_spent DESC
 LIMIT 10;
 
--- 8. TOP 10 MOST VALUABLE PRODUCTS 
+-- 9. TOP 10 MOST VALUABLE PRODUCTS 
 -- Business question:Top 10 products by revenue 
 SELECT
     p.product_id,
@@ -157,7 +157,7 @@ GROUP BY p.product_id
 ORDER BY total_revenue DESC
 LIMIT 10;
 
--- 9.Customer loyalty
+-- 10.Customer loyalty
 DROP VIEW IF EXISTS customer_orders;
 DROP VIEW IF EXISTS lifetime;
 DROP VIEW IF EXISTS average_order;
