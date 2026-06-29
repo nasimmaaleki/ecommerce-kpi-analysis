@@ -20,7 +20,7 @@ evidence-based recommendations.
 - Where exactly does the revenue dip occur and how severe is it?
 - Is the drop caused by fewer orders, or lower spend per order?
 - Which product categories and channels are most affected?
-- How loyal is the customer base — and what does loyalty mean in this data?
+- How loyal is the customer base and what does loyalty mean in this data?
 - Does discounting actually drive higher spend?
 - Who are the most valuable customers?
 
